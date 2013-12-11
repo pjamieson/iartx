@@ -1,0 +1,44 @@
+<div class="span12 hero-unit container-fluid">
+  <div class="row-fluid">
+    <div class="span12">
+
+      <h1 align="center">West Indian Literature</h1>
+
+      <p class="search-prompt">Filter list by Name, Title, Publisher, Country, etc.:</p>
+      <input class="search-input span6" ng-model="query">
+
+      <div class="span12 authors">
+        <ul class="nav navbar-nav">
+          <li ng-repeat="author in data.authors | filter:query">
+            <h2 class='author-name'>{{author.last_name}}, {{author.first_name}}</h2>
+            <p><span class="country">{{author.country}}</span><span class="dates">({{author.birth_date}} - {{death_date}})</span></p>
+
+            <ul class="nav navbar-nav">
+              <li ng-repeat="paragraph in author.bio">
+                <p class="bio" ng-bind-html-unsafe="paragraph"></p>
+            </ul>
+
+            <ul class="book nav navbar-nav">
+              <li ng-repeat="book in author.books">
+                <h3 class="book-title">{{book.title}}</h3>
+
+                <ul class="nav navbar-nav">
+                  <li ng-repeat="paragraph in book.summary">
+                    <p class="summary" ng-bind-html-unsafe="paragraph"></p>
+                </ul>
+
+                <ul class="nav navbar-nav">
+                  <li ng-repeat="edition in book.editions">
+                    <p>{{edition.pub_info}}</p>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+            <hr/>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>

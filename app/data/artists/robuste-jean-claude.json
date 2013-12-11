@@ -1,0 +1,66 @@
+{
+	"id": "robuste-jean-claude",
+	"name": "Jean Claude Robuste",
+	"bio": [
+		""
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "",
+	"death_date": "",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "",
+			"link_url": ""
+		},
+		{
+			"link_name": "",
+			"link_url": ""
+		}
+	],
+	"publications": [
+		{
+			"author": "",
+			"pages": "",
+			"pub_date": "",
+			"pub_place": "",
+			"pub_type": "",
+			"publisher": "",
+			"title": ""
+		},
+		{
+			"author": "",
+			"pages": "",
+			"pub_date": "",
+			"pub_place": "",
+			"pub_type": "",
+			"publisher": "",
+			"title": ""
+		}
+	],
+	"artworks": [
+		{
+			"title": "",
+			"height": "",
+			"width": "",
+			"price": "",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [""],
+			"images": [
+				""
+			]
+		},
+		{
+			"title": "Seaside Village",
+			"height": "20",
+			"width": "30",
+			"price": "500",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [""],
+			"images": [
+				""
+			]
+		}
+	]
+}

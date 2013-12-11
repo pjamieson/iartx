@@ -1,0 +1,14 @@
+<div class="well sidebar-nav">
+  <h3>Our Art Collection</h3>
+  <ul class="nav nav-list" ng-controller="ArtistListCtrl">
+
+    <li class="nav-header">Haitian Artists</li>
+    <li ng-repeat="artist in data.artists">
+      <a href="#/artists/{{artist.id}}">{{artist.last_name}}, {{artist.first_name}}</a>
+    </li>
+
+    <li class="nav-header">Artists from Other Countries</li>
+    <li><a href="#">Coming soon</a></li>
+    
+  </ul>
+</div><!--/.well -->

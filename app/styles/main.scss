@@ -2,31 +2,171 @@ $iconSpritePath: "../images/glyphicons-halflings.png";
 $iconWhiteSpritePath: "../images/glyphicons-halflings-white.png";
 
 @import "bootstrap-sass/lib/bootstrap";
+@import "bootstrap-sass/lib/responsive";
 
 /* Put your CSS here */
 html, body {
-  margin: 20px;
+  margin: auto;
+  max-width: 1390px;
 }
 
 body {
-    background: #fafafa;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #333;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  background: #fafafa;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+}
+
+.search-prompt {
+  font-size: 14px;
+  line-height: 1;
+  padding-top: 30px;
+}
+
+.search-input {
+  font-size: 18px;
+  margin-bottom: 40px;
 }
 
 .hero-unit {
-    margin: 50px auto 0 auto;
-    width: 300px;
-    font-size: 18px;
-    font-weight: 200;
-    line-height: 30px;
+    margin: 0px auto 0 auto;
     background-color: #eee;
     border-radius: 6px;
-    padding: 60px;
+    padding: 40px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1.2;
+    .padded-top {
+      padding-top: 20px;
+    }
 }
 
 .hero-unit h1 {
-    font-size: 60px;
+    font-size: 48px;
     line-height: 1;
     letter-spacing: -1px;
+    padding-bottom: 12px;
+}
+
+.hero-unit h2 {
+    font-size: 32px;
+    line-height: 1;
+    letter-spacing: -1px;
+    padding-bottom: 0px;
+}
+
+.hero-unit {
+  .author-name {
+  }
+  .bio {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1.2;
+    strong {
+      font-weight: 600;
+    }
+    em {
+      font-weight: 400;
+    }
+  }
+  .book {
+    .summary {
+      font-size: 18px;
+      font-weight: 200;
+      line-height: 1.2;
+      strong {
+        font-weight: 600;
+      }
+      em {
+        font-weight: 400;
+      }
+    }
+  }
+  .country {
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .dates {
+    padding-left: 20px;
+  }
+}
+
+.artists {
+  list-style: none;
+}
+
+.thumb {
+  float: left;
+  margin: -1em 1em 1.5em 0em;
+  padding-bottom: 1em;
+  height: 100px;
+  width: 100px;
+}
+
+.artists li {
+  clear: both;
+  height: 100px;
+  padding-top: 15px;
+}
+
+/** Detail View **/
+img.artwork {
+  float: left;
+  border: 1px solid black;
+  margin-right: 3em;
+  margin-bottom: 2em;
+  background-color: white;
+  padding: 2em;
+  height: 400px;
+  width: 400px;
+}
+
+ul.artwork-thumbs {
+  margin: 0;
+  list-style: none;
+}
+
+ul.artwork-thumbs li {
+  border: 1px solid black;
+  display: inline-block;
+  margin: 1em;
+  background-color: white;
+}
+
+ul.artwork-thumbs img {
+  height: 100px;
+  width: 100px;
+  padding: 1em;
+}
+
+ul.artwork-thumbs img:hover {
+  cursor: pointer;
+}
+
+
+ul.specs {
+  clear: both;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.specs > li{
+  display: inline-block;
+  width: 200px;
+  vertical-align: top;
+}
+
+ul.specs > li > span{
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+ul.specs dt {
+  font-weight: bold;
+}
+
+h1 {
+  border-bottom: 1px solid gray;
 }
