@@ -18,6 +18,10 @@ body {
   color: #333;
 }
 
+.index-head {
+  line-height: 1.1;
+}
+
 .search-prompt {
   font-size: 14px;
   line-height: 1;
@@ -30,7 +34,7 @@ body {
 }
 
 .hero-unit {
-    margin: 0px auto 0 auto;
+    margin: 0px auto 0px auto;
     background-color: #eee;
     border-radius: 6px;
     padding: 40px;
@@ -88,14 +92,11 @@ body {
     font-weight: 400;
   }
   .dates {
-    padding-left: 20px;
+    padding-left: 14px;
   }
 }
 
-.artists {
-  list-style: none;
-}
-
+/*
 .thumb {
   float: left;
   margin: -1em 1em 1.5em 0em;
@@ -103,7 +104,7 @@ body {
   height: 100px;
   width: 100px;
 }
-
+*/
 .artists li {
   clear: both;
   height: 100px;
@@ -114,8 +115,8 @@ body {
 img.artwork {
   float: left;
   border: 1px solid black;
-  margin-right: 3em;
-  margin-bottom: 2em;
+  margin-right: 1em;
+  margin-bottom: 1em;
   background-color: white;
   padding: 2em;
   height: 400px;
@@ -130,7 +131,8 @@ ul.artwork-thumbs {
 ul.artwork-thumbs li {
   border: 1px solid black;
   display: inline-block;
-  margin: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
   background-color: white;
 }
 
@@ -144,6 +146,17 @@ ul.artwork-thumbs img:hover {
   cursor: pointer;
 }
 
+.artwork-particulars p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+}
+
+.artwork-title {
+  font-size: 22px;
+  font-weight: 500;
+  font-style: italic;
+}
 
 ul.specs {
   clear: both;

@@ -11,7 +11,7 @@
         <ul class="nav navbar-nav">
           <li ng-repeat="author in data.authors | filter:query">
             <h2 class='author-name'>{{author.last_name}}, {{author.first_name}}</h2>
-            <p><span class="country">{{author.country}}</span><span class="dates">({{author.birth_date}} - {{death_date}})</span></p>
+            <p><span class="country">{{author.country}}</span><span class="dates">({{author.birth_date}} - {{author.death_date}})</span></p>
 
             <ul class="nav navbar-nav">
               <li ng-repeat="paragraph in author.bio">
