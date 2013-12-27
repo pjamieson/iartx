@@ -2,64 +2,81 @@
 	"id": "francois-roger",
 	"name": "Roger Francois",
 	"bio": [
-		""
+		"<b>Roger Francois</b> was born around 1928 in Petite Riviere, on the Artibonite plain of central Haiti. He began as a wood sculptor and still carves occasionally. He has been painting as well since the early sixties. He loves to paint and sculpt Haitian women, both nudes and market women with baskets and braids. Besides women, M. Francois paints animals: cats, dogs, horses and owls, and in the early 1990's, began painting sun and moon heads on human bodies. He also does an occasional surreal voodoo painting. His style is robust, bold and always fresh and new.",
+		"A painting of his hangs in the National Museum, Brussells, Belgium and another was exhibited in the show of Geoffrey Holder's collection, <em>Spirits</em> at the Katonah Museum of Art, (NY) in May 1991. His work has appeared in books and museum shows internationally."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "1928",
+	"death_date": "Feb 2013",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianart7rfrancois.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "The Electric Gallery",
+			"link_url": "http://www.egallery.com/artists/?id=114"
+		},
+		{
+			"link_name": "Medalia Art",
+			"link_url": "http://www.medalia.net/store/francoisrog.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "[na]",
+			"pages": "pp. 14, 30, 81.",
+			"pub_date": "1990",
 			"pub_place": "",
 			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"publisher": "AFHAC",
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Nude with Cat and Flowers",
+			"date": "2002",
+			"height": "30",
+			"width": "40",
+			"price": "SOLD",
+			"medium": "Acrylic on Canvas, Self-Framed",
+			"description": [
+				"<em>Nude with Cat and Flowers</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"francois-roger-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
+			"title": "Woman with Bird",
+			"date": "c. 2002",
+			"height": "30",
+			"width": "24",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>Woman with Bird</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"francois-roger-2-500.jpg"
+			]
+		},
+		{
+			"title": "Adam and Eve",
+			"date": "c. 2002",
+			"height": "20",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [
+				"<em>Adam and Eve</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
+			"images": [
+				"francois-roger-3-500.jpg"
 			]
 		}
 	]

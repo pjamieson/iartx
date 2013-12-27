@@ -2,64 +2,43 @@
 	"id": "pierre-eddy",
 	"name": "Eddy Pierre",
 	"bio": [
-		""
+		"According to Boris Kravitz, owner of the Haitian Art Company, <b>Eddy Pierre</b> was born in the mid-1960s and lives in Cap-Haitien. He is a cousin of the artist Michaelle Obin.",
+		"Typically, Eddy Pierre's paintings show Haitian market women carrying laden baskets on their heads.&nbsp; He usually&nbsp;shows them as over-sized compared to the houses and other objects in the painting.&nbsp; This symbolizes the importance of these women to Haitian society."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "Mid 1960s",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Coast Highway",
+			"date": "c. 1998",
+			"height": "20",
+			"width": "24",
+			"price": "$350",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"pierre-eddy-1-500.jpg",
+				"pierre-eddy-1f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
+			"title": "Marchandes (Market Women)",
+			"date": "c. 1998",
 			"height": "20",
-			"width": "30",
-			"price": "500",
+			"width": "16",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"pierre-eddy-2-500.jpg"
 			]
 		}
 	]

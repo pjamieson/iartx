@@ -2,64 +2,38 @@
 	"id": "robuste-jean-claude",
 	"name": "Jean Claude Robuste",
 	"bio": [
-		""
+		"<b>Jean Claude Robuste</b> was born in Port-au-Prince on October 24, 1946. His father was in the military and his mother was a dress designer. He attended Ecole Nationale des Casernes Dessalines and Lycee Francois Duvalier. In 1969 he began drawing and painting with David Rouzier and Frank Robuste, his older brother."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "24 Oct 1946",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pp. 126-7.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Ra-Ra",
+			"date": "c. 1976",
+			"height": "24",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Oil on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"robuste-Jean-claude-1-500.jpg"
 			]
 		}
 	]

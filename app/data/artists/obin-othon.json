@@ -2,64 +2,38 @@
 	"id": "obin-othon",
 	"name": "Othon Obin",
 	"bio": [
-		""
+		"<b>Othon Obin</b>, the son of Seneque Obin and nephew of Philome Obin, was born April 2, 1920 in Cap-Haitien. After Freres de L'Instruction Chretienne Primary School and Lycee National Philippe Guerrier High School, he worked from 1937 to 1963 as a mechanic. Artist Rony Leonidas interested Othon in painting just before Othon's father died. Also encouraged by Seymour Bottex and almost all the other Obins, Othon began to paint in earnest in the early 1970's."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "02 Apr 1920",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 58.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Sunday Morning",
+			"date": "c. 1980",
+			"height": "15 3/4",
+			"width": "19 3/4",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"obin-othon-1-500.jpg"
 			]
 		}
 	]

@@ -2,64 +2,79 @@
 	"id": "maurice-a-m",
 	"name": "A.M. Maurice",
 	"bio": [
-		""
+		"<b>A.M. Maurice</b>--a painter who was also the director of a school and a businessman--was born in the 1950s. He lived with his large family in his native Petite-Riviere de l'Artibonite. Due to his many other responsibilities, Maurice's painting time was limited. He was meticulous in his work, and spent a good deal of time on each painting.",
+		"In 2000, A.M. Maurice became sick. His condition deteriorated rapidly, and he died."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "1950s",
+	"death_date": "2000",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/maurice.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Demme, Jonathan",
+			"pages": "pg. 184.",
+			"pub_date": "1997",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Haiti Crucifiee",
+			"date": "c. 1986",
+			"height": "28",
+			"width": "24",
+			"price": "$5,000",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"The meanings of the symbols seen in <em>Haiti Crucifiee</em> were explained as follows by Marie Coine Kravitz, the wife of Boris Kravitz (owner of the Haitian Art Company in Key West, Florida) and the daughter of the Haitian artist Theard Aladin:",
+				"The setting is dictator Francois 'Papa Doc' Duvallier's sacrificial altar outside the National Palace in Port-au-Prince. Papa Doc--shown wearing his customary dark glasses--<i>'practiced magic'</i>; the flame in the lower left represents his religion. The blue and red body nailed to the cross--those being the colors of the traditional Haitian flag--represents the people of Haiti. (Papa Doc replaced the blue and red flag with a black and red one, as seen in the upper left.) Papa Doc's son and successor, Jean-Claude 'Baby Doc' Duvallier, stands behind him. The two snakes represent how the Duvalliers treated the people of Haiti. Papa Doc's snake squeezes the Haitian people and sucks their blood; Baby Doc's snake in turn sucks that blood from his father's cup. The skeletal figures behind the Duvalliers represent the members of their regime; lacking their own strength, <i>'they are already dead.'</i>",
+				"Papa Doc's black and red flag flies from a palm tree--a symbol of freedom and liberty--suggesting that freedom and liberty will grow again in Haiti. Maurice has also added a slogan and a bird sitting on a <i>lanbi</i> (conch shell) to the flag. The lanbi is the symbol of the Haitian Revolution, which Maurice shows as being <i>'put on the bottom'</i> by the Duvalliers. The bird sitting on the lanbi--a <i>pentad</i> (guinea fowl)--is a passive breed without a sense of responsibility; it will fly away, abandoning its newly hatched young. The slogan added to the flag essentially calls for freedom fighters to rise up and battle the Duvallier regime",
+				"Maurice kept this painting hidden for many years. He sold it to Boris Kravitz shortly before his death.",
+				"<em>Haiti Crucifiee</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"maurice-a-m-3-500.jpg",
+				"maurice-a-m-3f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
+			"title": "Marriage Ceremony",
+			"date": "c. 1998",
 			"height": "20",
-			"width": "30",
-			"price": "500",
+			"width": "24",
+			"price": "$3,500",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>Marriage Ceremony</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"maurice-a-m-2-500.jpg",
+				"maurice-a-m-2f.jpg"
+			]
+		},
+		{
+			"title": "Mariage Forcé",
+			"date": "c. 1999",
+			"height": "20",
+			"width": "24",
+			"price": "SOLD",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [
+				"<em>Mariage Forcé</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
+			"images": [
+				"maurice-a-m-1-500.jpg"
 			]
 		}
 	]

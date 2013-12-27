@@ -2,64 +2,72 @@
 	"id": "jacques-harry",
 	"name": "Harry Jacques (dit Arijac)",
 	"bio": [
-		""
+		"<b>Harry Jacques</b> (dit Arijac) was born on August 11, 1937 in Gonaves, Haiti. After completing high school, Arijac took international correspondence courses in architecture and worked as a draftsman from 1962-63 for the noted artist Sacha Thebaud's (dit Tebo) architecture firm. Arijac also worked in the school construction division of the Department of Agriculture until 1975. Thebaud taught Arijac to paint in the 2000 year old encaustic method, which involves using an iron with a mixture of beeswax, turpentine and pigment to create images.",
+		"Considered one of Haiti's finest painters, Arijac has exhibited work at the American Institute, the French Institute, the Sao Paolo Biennial and in New York."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "11 Aug 1937",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 69.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "pg. 151.",
+			"pub_date": "1986",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne"
+		},
+		{
+			"author": "AFHAC",
+			"pages": "pg. 55.",
+			"pub_date": "1990",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Fille de Mer",
+			"date": "1991",
+			"height": "20",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Encaustic on Canvas",
+			"description": [
+				"In June 2004, <em>Fille de Mer</em> was exhibited at the Centre d'Art in Port-au-Prince in a show called <em>Women Painters and the Representation of Women in Haitian Painting.</em> This exhibition was in celebration of the Centre's 60th Anniversary, and featured works spanning the Centre's 60 years by 60 different artists. Arijac was one of several male artists <i>'who honor women through their art'</i> who had works selected for inclusion in this show.",
+				"<em>Fille de Mer</em> was also one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jacques-harry-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
+			"title": "Pilatoise (Woman of Pilate)",
+			"date": "2000",
 			"height": "20",
-			"width": "30",
-			"price": "500",
+			"width": "16",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"jacques-harry-2-500.jpg"
 			]
 		}
 	]

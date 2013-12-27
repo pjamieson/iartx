@@ -91,6 +91,13 @@
 		"last_name": "Guillaume"
 	},
 	{
+		"id": "hector-voltaire",
+		"aka": "",
+		"country": "Haiti",
+		"first_name": "Voltaire",
+		"last_name": "Hector"
+	},
+	{
 		"id": "ismael-saincilus",
 		"aka": "",
 		"country": "Haiti",
@@ -147,13 +154,6 @@
 		"last_name": "Joseph"
 	},
 	{
-		"id": "leopol-lindor",
-		"aka": "",
-		"country": "Haiti",
-		"first_name": "Lindor",
-		"last_name": "Leopol"
-	},
-	{
 		"id": "louissaint-jacques",
 		"aka": "",
 		"country": "Haiti",
@@ -201,6 +201,13 @@
 		"country": "Haiti",
 		"first_name": "Eddy",
 		"last_name": "Pierre"
+	},
+	{
+		"id": "rameau-cameau",
+		"aka": "",
+		"country": "Haiti",
+		"first_name": "Cameau",
+		"last_name": "Rameau"
 	},
 	{
 		"id": "robuste-jean-claude",

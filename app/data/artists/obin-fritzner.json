@@ -2,64 +2,41 @@
 	"id": "obin-fritzner",
 	"name": "Fritzner Obin",
 	"bio": [
-		""
+		"<b>Fritzner Obin</b> was born in 1967 in Port-au-Prince, Haiti. He is the father of two daughters and a son. Originally inspired by the artist <a href='#/artists/hector-voltaire'>Voltaire Hector</a>, he has been painting since the mid-1990's. His paintings usually depict Haitian daily life or vodou scenes. His work can be described as creative, whimsical, humorous, and impulsive.",
+		"In addition to being a painter, Fritzner Obin writes for a local newspaper, and is involved with the radio production 'Radio Magic in Magic.'"
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "1967",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/fobin.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "University of Central Florida",
+			"link_url": "http://facrl.fcla.edu/newsletter/nl0308/ucf0308.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Pandan Manbo Marie",
+			"date": "c. 1998",
+			"height": "16",
+			"width": "12",
+			"price": "$350",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>Pandan Manbo Marie</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"obin-fritzner-1-500.jpg",
+				"obin-fritzner-1f.jpg"
 			]
 		}
 	]

@@ -8,21 +8,35 @@
     <li ng-repeat="paragraph in data.artist.bio">
       <p class="bio" ng-bind-html-unsafe="paragraph"></p>
   </ul>
+  <div class="bio-credit pull-right" ng-show="data.artist.bio_credit_name.length > 0">
+    <p>[Biographic notes from <a target="_blank" ng-href="{{data.artist.bio_credit_url}}">{{data.artist.bio_credit_name}}</a>]</p>
+  </div>
+
+  <div ng-show="data.artist.publications.length > 0">
+    <p class="section-head">Publications:</p>
+    <ul class="nav">
+      <li ng-repeat="pub in data.artist.publications">
+        <p class="pub-info">{{pub.author}}. <em>{{pub.title}}</em>. <span ng-show="pub.publisher.length > 0">{{pub.publisher}}, </span>
+          <span ng-show="pub.pub_date.length > 0">{{pub.pub_date}}. </span>{{pub.pages}}</p>
+      </li>
+    </ul>
+  </div>
 
   <ul class="nav">
     <li ng-repeat="artwork in data.artist.artworks">
       <div class="padded-top span12" ng-controller="ArtworkDetailCtrl" ng-model="artwork">
         <img ng-src="images/{{mainImageUrl}}" class="artwork">
-        <ul class="artwork-thumbs">
-          <li ng-repeat="img in artwork.images">
-            <img ng-src="images/{{img}}" ng-click="setImage(img)">
-          </li>
-        </ul>
+        <div ng-show="artwork.images.length > 1">
+          <ul class="artwork-thumbs">
+            <li ng-repeat="img in artwork.images">
+              <img ng-src="images/{{img}}" ng-click="setImage(img)">
+            </li>
+          </ul>
+        </div>
         <div class="span12 artwork-particulars">
           <p><span class="artwork-title">{{artwork.title}}</span><span class="dates">{{artwork.date}}</span></p>
           <p>{{artwork.width}} x {{artwork.height}} inches, {{artwork.medium}}</p>
-          <p>{{artwork.price}}</p>
-          <p></p>
+          <p>{{artwork.price}} <span ng-show="artwork.price.charAt(0) == '$'"> - To inquire about this piece, please email <a href="mailto:patrick@ibookx.com?subject={{artwork.title}} by {{data.artist.name}}">Patrick Jamieson</a>.</span></p>
         </div>
         <div class="span12">
           <ul class="padded-top nav">
@@ -33,5 +47,14 @@
       </div>
     </li>
   </ul>
+
+  <div class="padded-top" ng-show="data.artist.links.length > 0">
+    <p class="section-head">Selected {{data.artist.name}} links:</p>
+    <ul class="nav">
+      <li ng-repeat="link in data.artist.links">
+        <p class="artist-link"><a target="_blank" ng-href="{{link.link_url}}">{{link.link_name}}</a></p>
+      </li>
+    </ul>
+  </div>
 
 </div>

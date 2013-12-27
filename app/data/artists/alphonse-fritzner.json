@@ -2,64 +2,50 @@
 	"id": "alphonse-fritzner",
 	"name": "Fritzner Alphonse",
 	"bio": [
-		""
+		"<b>Fritzner Alphonse</b> was born in Port-au-Prince, Haiti on July 18, 1938. His mother was a market vendor originally from Jacmel, and his father was a leather tanner. After leaving school, Fritzner's father taught him his trade, and Fritzner worked as a tanner until the age of 36. The artist Calixte Henry, a childhood friend, introduced Alphonse to painting. Henry gave him some art books to study, and Alphonse was particularly impressed with late 18th century western painting.",
+		"As is readily apparent from his work, Alphonse was fascinated by the female figure; his paintings depict an endless variation on this theme. His family are 3rd generation protestants and he attended the Baptist church every Sunday. He had no regard for vodou; he thought that it had ruined Haiti.",
+		"Alphonse's work has been shown throughout the Caribbean islands, in Mexico, Europe, Japan, and the United States.&nbsp; In the United States, he is also known for a mural that he painted for a large hotel in Miami.&nbsp; In the early 1990's, Bon Appetit Magazine published a feature article on the artist, with a number of full-color illustrations of his works.",
+		"Fritzner Alphonse died in September 2006."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "18 Jul 1938",
+	"death_date": "Sep 2006",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "The Electric Gallery",
+			"link_url": "http://www.egallery.com/artists/?id=14"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://haitian-art-co.com/artists/falphonse.html"
+		},
+		{
+			"link_name": "Haitian-Painting.com",
+			"link_url": "http://www.haitian-painting.com/index.php?g2_itemId=229"
+		},
+		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://www.indigoarts.com/gallery_haiti_f.alphonse.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
+			"title": "Fleurette (Blue Woman)",
+			"date": "c. 1993",
 			"height": "20",
-			"width": "30",
-			"price": "500",
+			"width": "24",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"Green or blue skin in a Haitian painting symbolizes the influence of Erzulie, the Goddess of Love. I find it interesting that--given his distain for vodou--the artist employs that symbolism in this painting"
+			],
 			"images": [
-				""
+				"alphonse-fritzner-1-500.jpg"
 			]
 		}
 	]

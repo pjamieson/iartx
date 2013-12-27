@@ -2,64 +2,37 @@
 	"id": "jose-hilome",
 	"name": "Hilome Jose",
 	"bio": [
-		""
+		"<b>Hilome Jose</b> was born in 1947 in the town of Jeremie on the southwestern tip pf Haiti. He moved to Port-au-Prince in the late 1960's and worked as a carpenter. Through a mutual friend he made the acquaintance of the Haitian master Calixe Henry and began to paint. He is a journeyman knife painter with a distinctive style."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "1947",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianarthilome.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/hjose.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Waterfront Scene",
+			"date": "c. 2005",
+			"height": "8",
+			"width": "10",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"jose-hilome-1-500.jpg"
 			]
 		}
 	]

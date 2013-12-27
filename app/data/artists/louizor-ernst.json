@@ -2,64 +2,48 @@
 	"id": "louizor-ernst",
 	"name": "Ernst Louizor",
 	"bio": [
-		""
+		"<b>Ernst Louizor</b> was born in Port-au-Prince on October 16, 1938. After high school (Lycee Toussaint L'Ouverture '57) he worked in the tax section of Customs. Louizor's painting career began in 1951 when at the age of 13 he joined the Centre d'Art and studied under <a href='#/artists/domond-wilmino'>Wilmino Domond</a>. He later entered the Academie des Beaux-Arts shortly after its founding in 1959 and furthered his studies with George Ramponeau.",
+		"Now, considered the leading impressionist painter of Haiti, Louzior has many disciples. He has exhibited in Europe and the U.S., and his works hang in many private collections.",
+		"Ernst Louizor died unexpectedly while visiting a son in Florida in August 2011."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "16 Oct 1938",
+	"death_date": "Aug 2011",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/elouizor.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Friends of Carrefour Association",
+			"link_url": "http://friendsofcarrefour.org/?page_id=162"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 77.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Untitled",
+			"date": "c. 1969",
+			"height": "10",
+			"width": "8",
+			"price": "SOLD",
+			"medium": "Oil on Masonite with Palette Knife, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"louizor-ernst-1-500.jpg"
 			]
 		}
 	]

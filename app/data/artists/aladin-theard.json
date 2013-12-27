@@ -2,64 +2,44 @@
 	"id": "aladin-theard",
 	"name": "Theard Aladin",
 	"bio": [
-		""
+		"<b>Theard Aladin</b> (father of the artist <a href='#/artists/aladin-agathe'>Agathe Aladin</a>) was born in Jacmel, Haiti on October 12, 1925. For most of his life he was a stonemason. At the end of 1983, he injured his back and was unable to continue his trade. For months he languished, doing odd jobs and looking for a way to support his wife and nine children.",
+		"A cousin of the renowned Haitian painters Prefete Duffaut and Pauleus Vital, Theard awoke from a dream in the fall of 1984 that told him that he was an artist. He painted his first painting the next day, and for the next two years he painted in a small house on the Ruelle George in Carrefour, in the company of a group of other transplanted Jacmellians: Maurice Vital, Martino Gabriel and Lorcin Vital, as well as Edouard Vital, the son of his cousin Pauleus.",
+		"Theard was an unschooled naive. He painted scenes that were typical in the life of an working class Haitian, as well as voodoo ceremonies and political statements. His paintings are innocent and charming, as was he.",
+		"In 1987, Theard Aladin moved with his family to a small house on the top of a limestone cliff overlooking Carrefour. There he died from heart disease on August 17, 1993."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "12 Oct 1925",
+	"death_date": "17 Aug 1993",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Ceremonie Vodou",
+			"date": "Dated 1993",
+			"height": "30",
+			"width": "20",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"aladin-theard-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
+			"title": "Samson",
+			"date": "Dated 1992",
+			"height": "30",
+			"width": "20",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"aladin-theard-2-500.jpg"
 			]
 		}
 	]

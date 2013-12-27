@@ -2,64 +2,49 @@
 	"id": "valcin-pierre-joseph",
 	"name": "Pierre Joseph Valcin",
 	"bio": [
-		""
+		"<b>Pierre Joseph Valcin</b> (sometimes listed as Pierre Joseph), born in May 1925 in Port-au-Prince, is said to have worked as a mechanic, a stone mason (for 25 years) and as a plumber before joining the Centre d'Art in the early 1960s at the recommendation of his half-brother Gerard Valcin, who tutored Pierre for his first year as a resident artist at the Centre. He is the father of painters Favrance Valcin and 'Valcin II'",
+		"His work is included in the permanent collections of the Musee d'Art Haitien du College Saint Pierre in Port-au-Prince, the Davenport Museum of Art in Iowa, the Waterloo Museum of Art in Iowa, and the New Orleans Museum of Art."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "May 1925",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
+			"author": "Demme, Jonathan",
 			"pages": "",
-			"pub_date": "",
+			"pub_date": "1997",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Les Oiseaux (Birds)",
+			"height": "24",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
+				"valcin-pierre-joseph-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
+			"title": "Les Oiseaux (Birds)",
 			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
+				"valcin-pierre-joseph-2-400.gif"
 			]
 		}
 	]

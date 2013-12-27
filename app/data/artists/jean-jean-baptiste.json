@@ -2,64 +2,103 @@
 	"id": "jean-jean-baptiste",
 	"name": "Jean-Baptiste Jean",
 	"bio": [
-		""
+		"<b>Jean-Baptiste Jean</b> was born April 21, 1953 in Cap-Haitian and began to paint in 1972 as a student of Philome Obin. (In the first painting below, Jean-Baptiste Jean is seated at an easel with Philome Obin standing next to him, providing guidance.) He also studied at the Centre d'Art in Port-au-Prince, formally joining the Centre in 1973.&nbsp; He is known as a Third Generation Master of the Northern School.",
+		"Jean-Baptiste Jean died in 2002."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "21 Apr 1953",
+	"death_date": "2002",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianartjbjean.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Arts of Haiti",
+			"link_url": "http://www.artshaiti.com/jean-baptiste-jean.htm"
+		},
+		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://www.indigoarts.com/gallery_haiti_j.b.jean.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 112.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "pg. 83.",
+			"pub_date": "1986",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne"
+		},
+		{
+			"author": "AFHAC",
+			"pages": "pp. 6, 82.",
+			"pub_date": "1990",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
+		},
+		{
+			"author": "Drot, Jean-Marie",
+			"pages": "pp. 93, 106-7, 129, 164, 168-9, 176, 183, 193.",
+			"pub_date": "1994",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "An Encounter between Two Worlds as Seen by Haiti's Artists"
+		},
+		{
+			"author": "Demme, Jonathan",
+			"pages": "pp. 144, 145.",
+			"pub_date": "1997",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Visite de Monseignueur Makarios Chez Jn B. Jean",
+			"date": "c. 1973",
+			"height": "24",
+			"width": "30",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"<em>Visite de Monseignueur Makarios</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jean-jean-baptiste-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Masons' Procession",
+			"date": "c. 1978",
+			"height": "24",
+			"width": "36",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"<em>Masons' Procession</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jean-jean-baptiste-2-500.jpg"
 			]
 		}
 	]

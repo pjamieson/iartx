@@ -2,64 +2,48 @@
 	"id": "jean-ulrick",
 	"name": "Ulrick Jean",
 	"bio": [
-		""
+		"<b>Ulrick Jean</b> was born in the late 1960s in Carrefour, Port-au-Prince. He originally sold his work through various vendors at the Iron Market in Port-au-Prince. Today his work is represented in the United States by The Haitian Art Company in Key West, Florida.",
+		"An example of his work can be found in Jonathan Demme's <em>Island on Fire</em>."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "Late 1960s",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/ujean.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Medalia Art",
+			"link_url": "http://www.medalia.net/demme/djeanu.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
+			"author": "Demme, Jonathan",
 			"pages": "",
-			"pub_date": "",
+			"pub_date": "1997",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Village Scene",
+			"date": "c. 1998",
+			"height": "10",
+			"width": "20",
+			"price": "$250",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"jean-ulrick-1-500.jpg",
+				"jean-ulrick-1f.jpg"
 			]
 		}
 	]

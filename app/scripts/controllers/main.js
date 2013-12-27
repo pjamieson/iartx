@@ -36,6 +36,7 @@ iartxControllers.controller('ArtistListCtrl', ['$scope', 'Artists',
 iartxControllers.controller('ArtworkDetailCtrl', ['$scope',
  	function($scope) {
  		$scope.mainImageUrl = $scope.artwork.images[0];
+    $scope.multipleImages = "true";
     $scope.setImage = function(imageUrl) {
       $scope.mainImageUrl = imageUrl;
     }

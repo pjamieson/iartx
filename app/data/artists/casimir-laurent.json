@@ -2,64 +2,61 @@
 	"id": "casimir-laurent",
 	"name": "Laurent Casimir",
 	"bio": [
-		""
+		"<b>Laurent Casimir</b> (also listed as Casimir Laurent) was born May 8, 1928 into a family of peasants in Anse-a-Veau, Haiti. He moved to Port-au-Prince in the late 1940's and was introduced to the Centre d'Art in 1947 by his friend Dieudonne Cedor. In 1950 he defected to the Foyer des Artes Plastiques which had been recently founded by a group of intellectuals and modern artists, Cedor included. Casimir was the originator of a Haitian archetype, the market painting, done in his trademark colors of red, orange and yellow. Visiting him at his house in Martissant in the mid-70's you were likely to find Casimir holding court and selling paintings in the front room, while in the back yard, a few apprentices were painting in the colors on canvases that the master had drawn, awaiting his signature. He has unfortunately been one of the most forged painters in history and this has worked to the detriment of his work, price-wise, as it is difficult to be sure which paintings that bear his name and style were actually painted by him.",
+		"Casimir died in 1990."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "08 May 1928",
+	"death_date": "1990",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianartcasimir.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "The Electric Gallery",
+			"link_url": "http://www.egallery.com/artists/?id=187"
+		},
+		{
+			"link_name": "Figge Art Museum",
+			"link_url": "http://www.figgeartmuseum.org/Collections/Haitian.aspx?Page=10"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "[na]",
+			"pages": "pp. 23, 100.",
+			"pub_date": "1974",
 			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"pub_type": "book",
+			"publisher": "Milwaukee Art Center",
+			"title": "The Naive Tradition: Haiti"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Stebich, Ute",
+			"pages": "pp. 97, 121, 156.",
+			"pub_date": "1978",
 			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"pub_type": "book",
+			"publisher": "The Brooklyn Museum",
+			"title": "Haitian Art"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Combat de Coqs (Cockfight)",
+			"date": "c. 1954",
+			"height": "16",
+			"width": "24",
+			"price": "$2,500",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"casimir-laurent-1-500.jpg",
+				"casimir-laurent-1f.jpg"
 			]
 		}
 	]

@@ -2,64 +2,51 @@
 	"id": "jean-marie-carmel",
 	"name": "Marie Carmel Jean",
 	"bio": [
-		""
+		"According to Boris Kravitz of the Haitian Art Company in Key West, Florida, <b>Marie Carmel Jean</b> was born in the mid-1960s. She was living in Carrefour, Haiti until her house burned down. Boris has not seen her since. [2002 conversation]"
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "Mid 1960s",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Le Couleurs: Art of Haiti",
+			"link_url": "http://goelectric.net/haitian-art.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Mother and Daughter",
+			"date": "c. 1997",
+			"height": "12",
+			"width": "16",
+			"price": "$250",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"<em>Mother and Daughter</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jean-marie-carmel-1-500.jpg",
+				"jean-marie-carmel-1f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
+			"title": "En Route",
+			"date": "c. 1997",
+			"height": "12",
+			"width": "16",
+			"price": "$250",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>En Route</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jean-marie-carmel-2-500.jpg",
+				"jean-marie-carmel-2f.jpg"
 			]
 		}
 	]

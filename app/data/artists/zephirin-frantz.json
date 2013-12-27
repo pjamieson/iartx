@@ -2,64 +2,82 @@
 	"id": "zephirin-frantz",
 	"name": "Frantz Zephirin",
 	"bio": [
-		""
+		"<b>Frantz Zephirin</b> was born in Cap Haitien, Haiti on December 17, 1968. By his reckoning, he is the 24th of 48 children sired by his architect father (with 19 different women). As a toddler he sat and watched his uncle, the Haitiain painter Antoine Obin, as he worked. By the age of 7, Frantz was filching paint in bottlecaps to do his own paintings.&nbsp; Within a year he was selling paintings to the tourists from cruise ships that docked in Le Cap in those days. By age thirteen, lying about his age, he was selling work to galleries.",
+		"Eventually he moved to Port-au-Prince and became associated with the Galerie Monnin. His style is unique among the painters of the Northern School. He describes himself as a <i>'Historic Animalist'</i>. He is entirely self-taught. Unlike many Haitian painters, he usually titles his paintings.",
+		"Zephirin counts among his influences Leonardo daVinci, James Darwin and the Lost Continent of Atlantis. His work is shown internationally. In October 1996 he was awarded the Gold medal in the Third Bienal of Caribbean and Central American Painting sponsored by The Museum of Modern Art of the Dominican Republic. This competition featured 144 artists from 37 countries in the region. He was one of 5 Haitians to be included in the V Bienal in Cuenca, Ecuador in 1996. Two of his paintings are featured in the wonderful show <em>Sacred Arts of Haitian Vodou</em> that toured the USA in 1997 and 1998. One of his paintings illustrates the cover of <em>The Immaculate Invasion</em> by Bob Shacochis (New York: Viking, 1999).",
+		"Since the earthquake, Zephirin has been living in Key West, Florida, but he travels extensively. In the United States, he travels exclusively by Greyhound Bus, using the time to read and ruminate on his art."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "17 Dec 1968",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/zphpntng36.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/fzephirin.html"
+		},
+		{
+			"link_name": "Medalia Art",
+			"link_url": "http://www.medalia.net/store/zephirinfra.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "AFHAC",
+			"pages": "pp. 21, 24, 90.",
+			"pub_date": "1990",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Drot, Jean-Marie",
+			"pages": "pp. 72, 73, 78, 86, 87, 195.",
+			"pub_date": "1994",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "An Encounter between Two Worlds as Seen by Haiti's Artists"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "The 3 Faces of Aristide",
+			"date": "2000",
+			"height": "24",
+			"width": "24",
+			"price": "$6,500",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"The meanings of the symbols seen in the above painting were explained as follows by Marie Coine Kravitz, the wife of Boris Kravitz (owner of the Haitian Art Company in Key West, Florida) and the daughter of the Haitian artist Theard Aladin:",
+				"This painting is about <i>'the Lavalas situation'</i> from its beginnings in the late 1980s. The image of Haitian President Jean Bertrand Aristide on the left illustrates how he presents himself as a dignified statesman and an open-armed champion of his people.&nbsp; The image on the right represents the suspicion some felt about Aristide, the priest who was perhaps <i>'too good to be true.'</i> The duo-toned face suggests he's half-man, half-god, but his right hand is <i>'a bird who eats the meat of dead people.'</i>' The moon over his shoulder signifies that his time has come, while the fact that we cannot see the end of his tail suggests <i>'we can't tell what may happen with him.'</i>",
+				"The dominant figure in the center of the painting symbolizes the countries that have controlled Haitian politics, as represented by the five flags at the bottom. <i>'Our suffering comes from them; they push us to something, but it's not good for us.'</i>' The small, round photo just above the top button of the dominant figure's shirt is of the face of Lieutenant General Prosper Avril, the dictator who took power in a September 1988 military coup. It is significant that Avril is very small compared to the flags and to Aristide. The people wanted Aristide, and they elected him President in 1990 in Haiti's first free elections.",
+				"The round face seen peering from between the teeth of the dominant countries represents the Haitian people and how they suffer. <i>'We are their chewing gum; they eat us.'</i",
+				"<em>The 3 Faces of Aristide</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"zephirin-frantz-1-500.jpg",
+				"zephirin-frantz-1f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Baron Samedi, Grande Brigitte, Ghédé Nibo",
+			"date": "2009",
+			"height": "16",
+			"width": "16",
+			"price": "$3,500",
+			"medium": "Acrylic on Canvas, Self-Framed",
 			"description": [""],
 			"images": [
-				""
+				"zephirin-frantz-2-500.jpg",
+				"zephirin-frantz-2f.jpg"
 			]
 		}
 	]

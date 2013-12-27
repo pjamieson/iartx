@@ -61,8 +61,6 @@ body {
 }
 
 .hero-unit {
-  .author-name {
-  }
   .bio {
     font-size: 18px;
     font-weight: 200;
@@ -73,6 +71,33 @@ body {
     em {
       font-weight: 400;
     }
+  }
+  .bio-credit {
+    clear: both;
+    margin-top: -16px;
+    font-size: 14px;
+  }
+  .section-head {
+    clear: both;
+    padding-top: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .pub-info {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 1.2;
+    strong {
+      font-weight: 600;
+    }
+    em {
+      font-weight: 400;
+    }
+  }
+  .artist-link {
+    margin: 0;
+    padding: 0;
   }
   .book {
     .summary {
@@ -118,9 +143,9 @@ img.artwork {
   margin-right: 1em;
   margin-bottom: 1em;
   background-color: white;
-  padding: 2em;
-  height: 400px;
-  width: 400px;
+  padding: 10px;
+  height: 480px;
+  width: 480px;
 }
 
 ul.artwork-thumbs {
@@ -137,9 +162,9 @@ ul.artwork-thumbs li {
 }
 
 ul.artwork-thumbs img {
-  height: 100px;
-  width: 100px;
-  padding: 1em;
+  height: 102px;
+  width: 102px;
+  padding: 4px;
 }
 
 ul.artwork-thumbs img:hover {
@@ -156,28 +181,6 @@ ul.artwork-thumbs img:hover {
   font-size: 22px;
   font-weight: 500;
   font-style: italic;
-}
-
-ul.specs {
-  clear: both;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-ul.specs > li{
-  display: inline-block;
-  width: 200px;
-  vertical-align: top;
-}
-
-ul.specs > li > span{
-  font-weight: bold;
-  font-size: 1.2em;
-}
-
-ul.specs dt {
-  font-weight: bold;
 }
 
 h1 {

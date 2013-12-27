@@ -2,64 +2,64 @@
 	"id": "ismael-saincilus",
 	"name": "Saincilus Ismael",
 	"bio": [
-		""
+		"<b>Saincilus Ismael</b> (sometimes listed as Ismael Saincilus) was born April 24, 1940 in Petite Riviere de L'Artibonite. He completed his studies at Freres de Saint-Marc and Lycee Antenor Firmin. Ismael began drawing at age seven, then began to paint in 1956 after visiting the Centre d'Art and the Foyer des Arts Plastiques. In 1967 he led a group of artists who were commissioned to paint the community exposition hall at the Albert Schweitzer Hospital in Deschapelles. He later became the director of the Ceramic Centre there.",
+		"For political reasons, Ismael spent a total of seven years in prison at different times during the regimes of the Duvaliers. He is very much respected in the art world, within as well as outside of Haiti. Considered the progenitor of the <em>Artibonite</em> style of painting, Ismael's students included Michel-Ange Altidort, Alix Dorleus, Errol Louis, and Carlos Jn. Baptiste.",
+		"Ismael's paintings, rendered with the intricacy of a Byzantine icon, are instantly recognizable. He painted scenes of Haitian peasant life, as well as religous-themed paintings that often mixed or combined Christianity and Vaudou.",
+		"Saincilus Ismael died suddenly in February 2000."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "24 Apr 1940",
+	"death_date": "Feb 2000",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "pg. 113.",
+			"pub_date": "1986",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "AFHAC",
+			"pages": "pp. 84, 88.",
+			"pub_date": "1990",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Madonna and Child",
+			"date": "",
+			"height": "20",
+			"width": "16",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"ismael-saincilus-1-500.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
+			"title": "Untitled",
+			"date": "",
+			"height": "24",
+			"width": "20",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"This untitled Ismael was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"ismael-saincilus-2-500.jpg"
 			]
 		}
 	]

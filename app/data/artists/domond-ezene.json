@@ -2,64 +2,49 @@
 	"id": "domond-ezene",
 	"name": "Ezene Domond",
 	"bio": [
-		"<b>Ezene Domond</b>"
+		"<b>Ezene Domond</b> was born October 16, 1956 in Jacmel.&nbsp; He attended Pinchinat High School along with his brother Urie Domond. Ezene studied painting with his uncle <a href='#/artists/domond-wilmino'>Wilmino Domond</a>, as well as with the world famous Voodoo artist Celestine Faustin. He lives and works in the remote rural community of La Fond His love of nature and the county life is reflected in his work: wonderfully rendered landscapes and markets."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "16 Oct 1956",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/edomond.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "The Lovers",
-			"height": "20",
-			"width": "16",
-			"price": "300",
+			"title": "Marche Bruyant (Busy Market)",
+			"date": "c. 1997",
+			"height": "26",
+			"width": "46",
+			"price": "$6,500",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>Marche Bruyant</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"domond-ezene-1-500.jpg",
+				"domond-ezene-1f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
+			"title": "Bourgeois Family",
+			"date": "c. 1987",
+			"height": "16",
+			"width": "12",
+			"price": "$1,200",
 			"medium": "Acrylic on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
+				"domond-ezene-2-500.jpg",
+				"domond-ezene-2f.jpg"
 			]
 		}
 	]

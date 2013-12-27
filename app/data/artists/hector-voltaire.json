@@ -1,0 +1,42 @@
+{
+	"id": "hector-voltaire",
+	"name": "Voltaire Hector",
+	"bio": [
+		"<b>Voltaire Hector</b> was born in Port-au-Prince in 1952. His brother, Roland Hector, encouraged Voltaire to start painting in 1977. He began by painting simple landscapes, moving on to other subjects when his brother died.",
+		"Hector has since become one of the best contemporary Haitian folk artists. His paintings are generally autobiographical, often accompanied by a line or two of narrative text. They reflect his experience of daily Haitian life: family life, voudou ceremonies, spiritual icons, medical procedures, political events, and Hector's own love life.",
+		"Hector is a serious artist, constantly improving his technique and the presentation of his work. His paintings are in major Haitian art collections, and have been used by director Jonathan Demme in his films. It is without reservation that we say he will be one of the few select Haitian artists collected into the future."
+	],
+	"bio_credit_name": "Haitian Art Company",
+	"bio_credit_url": "",
+	"birth_date": "",
+	"death_date": "",
+	"country": "Haiti",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/hect.html"
+		},
+		{
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianartvhector.html"
+		}
+	],
+	"publications": [
+	],
+	"artworks": [
+		{
+			"title": "Liberation et Dechoucage 7 Fevrier 86",
+			"date": "c. 1986",
+			"height": "24",
+			"width": "24",
+			"price": "$760",
+			"medium": "Oil on Masonite, Framed",
+			"description": [""],
+			"images": [
+				"",
+				""
+			]
+		}
+	]
+}

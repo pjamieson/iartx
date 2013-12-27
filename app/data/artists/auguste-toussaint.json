@@ -2,64 +2,76 @@
 	"id": "auguste-toussaint",
 	"name": "Toussaint Auguste",
 	"bio": [
-		""
+		"<b>Toussaint Auguste</b>, born in Leogane in 1925, is said to have been active in the Episcopal Diocese as a lay reader and a teacher before becoming a painter in the late 1940s. He was among the early painters working at the Centre d'Art in Port-au-Prince. Considered one of the First Generation Masters, examples of his work can be found in many museums--including the permanent collections of the Musee d'Art Haitien du College Saint Pierre in Port-au-Prince and the Milwaukee Museum of Art--and in most books on Haitian art.",
+		"Toussaint Auguste is represented in the Cathedral of Sainte Trinite in Port-au-Prince with the murals <em>Flight into Egypt</em> and <em>The Temptation of Adam and Eve.</em> In 1966, his <em>Nativity</em> was featured on a UNICEF Christmas card. He moved to the United States in 1967, first settling in Brooklyn, New York, and then in Queens, New York in 1972."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "1925",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Murals at Cathedral of Sainte Trinite",
+			"link_url": "http://haitiforever.com/windowsonhaiti/trinity.shtml"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Cleveland Museum of Art",
+			"link_url": "http://www.clevelandart.org/art/1949.542"
+		},
+		{
+			"link_name": "The Chicago Gallery of Haitian Art",
+			"link_url": "http://www.chigoha.com/artist-galleries/toussaint-auguste/"
+		},
+		{
+			"link_name": "The Haitian Art Collection",
+			"link_url": "http://www.haitian-art.net/demme2.htm"
+		},
+		{
+			"link_name": "HaitianPainrings.com",
+			"link_url": "http://www.haitianpaintings.com/hp.asp?page=ARTISTS_PORTFOLIO&id=238"
+		},
+		{
+			"link_name": "Shirley Allen",
+			"link_url": "http://www.shirleyallen.com/items/15486/item15486shirleyallen.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Rodman, Selden",
+			"pages": "Dust jacket illustration, frontispiece, pg. 132.",
+			"pub_date": "1948",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "Renaissance in Haiti"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Demme, Jonathan",
+			"pages": "pp. 56, 57.",
+			"pub_date": "1997",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "The Lost Lamb",
+			"date": "Dated 8/55 [August 1955]",
+			"height": "24",
+			"width": "20",
+			"price": "$6,500",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"<em>The Lost Lamb</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"auguste-toussaint-1-500.jpg",
+				"auguste-toussaint-1f.jpg",
+				"auguste-toussaint-1d-1000.jpg"
 			]
 		}
 	]

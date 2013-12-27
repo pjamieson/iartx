@@ -2,64 +2,28 @@
 	"id": "guillaume-jean-jacques",
 	"name": "Jean-Jacques Guillaume",
 	"bio": [
-		""
+		"<b>Jean-Jacques Guillaume</b> was born on January 31, 1955 in Port-au-Prince. He attended primary school at Freres Salesiens and Lycee Antenor Firmin High School to the fourth year. From a young age he wanted to paint, and in 1971 he entered the Academie des Beaux Arts where he studied under Raoul Dupoux, Emilcar Similien (Simil), and Rose Marie Desruisseau. His works, which were accepted by the Nader Art Gallery in 1974, are characterized by his use of vibrant colors against dark backgrounds."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "31 Jan 1955",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Untitled",
+			"height": "30",
+			"width": "20",
+			"price": "SOLD",
+			"medium": "Oil on Canvas, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"guillaume-jean-jacques1-500.jpg"
 			]
 		}
 	]

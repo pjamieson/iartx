@@ -2,64 +2,41 @@
 	"id": "dupoux-raoul",
 	"name": "Raoul Dupoux",
 	"bio": [
-		""
+		"<b>Raoul Dupoux</b> was born on June 10, 1906 in Jeremie, Haiti. He started designing at the age of seven, while in school, with the guidance of his mother, a watercolor artist. He then used oils with his uncle, Alain Clerir, an artist and a great Haitian music composer. He then studied at the Universal School of Paris.",
+		"A religious man, Dupoux joined the Congregation of Brothers of Christian Instructions where he spent seven years. He continued his studies in art with the famous religious artist Marcel George. Dupoux was obliged to leave the institute when his father became ill.",
+		"When the Centre d'Art found out about his talent, they called him to have an exhibit with Maurice Borno. Other exhibitions abroad received acclamation for his watercolors and his pen and ink drawings. Immediately after, Professor Montagutelli called upon Dupoux to offer him the position of professor at the Academie des Beaux Arts.",
+		"Dupoux died in Port-au-Prince on January 25, 1988 ."
 	],
 	"bio_credit_name": "",
 	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"birth_date": "10 Jun 1906",
+	"death_date": "25 Jan 1988",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 106.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Untitled",
+			"date": "[nd]",
+			"height": "21",
+			"width": "29",
+			"price": "SOLD",
+			"medium": "Watercolor on Paper, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"dupoux-raoul-1-500.jpg"
 			]
 		}
 	]

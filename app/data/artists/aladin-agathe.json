@@ -2,7 +2,7 @@
 	"id": "aladin-agathe",
 	"name": "Agathe Aladin",
 	"bio": [
-		"<b>Agathe Aladin</b> was born in Jacmel on May 25, 1967.  She is one of the nine children of Haitian artist Theard Aladin.  Agathe learned to paint by watching her father, and she later studied with Maurice Vital.  It was not until after her father's death in 1993 that Agathe begin to paint her own.  With a painting style similar to that of her father, Agathe is seen as surpassing him in context and creativity.  Her compositions are both playful and esoteric.  She describes her painting style as <i>'imaginary free.'</i>",
+		"<b>Agathe Aladin</b> was born in Jacmel on May 25, 1967.  She is one of the nine children of Haitian artist <a href='#/artists/aladin-theard'>Theard Aladin</a>.  Agathe learned to paint by watching her father, and she later studied with Maurice Vital.  It was not until after her father's death in 1993 that Agathe begin to paint her own.  With a painting style similar to that of her father, Agathe is seen as surpassing him in context and creativity.  Her compositions are both playful and esoteric.  She describes her painting style as <i>'imaginary free.'</i>",
 		"Agathe Aladin shows her work in galleries such as Issa, Boris and Galerie Monnin, which are located in Port-au-Prince.  She lives with her husband and three children in Carrefour, Haiti."
 	],
 	"bio_credit_name": "",
@@ -13,35 +13,30 @@
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianart2agathe.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/aaladin.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
+		{
+			"title": "Seaside Village",
+			"date": "Dated 1997",
+			"height": "20",
+			"width": "30",
+			"price": "$600",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [""],
+			"images": [
+				"aladin-agathe-2-500.jpg",
+				"aladin-agathe-2f.jpg"
+			]
+		},
 		{
 			"title": "The Lovers",
 			"date": "c. 1996",
@@ -53,21 +48,7 @@
 				"<em>The Lovers</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
 			],
 			"images": [
-				"AladinAgathe01.gif",
-				"AladinAgathe01_800.gif"
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"date": "Dated 1997",
-			"height": "20",
-			"width": "30",
-			"price": "$600",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				"AladinAgathe02.gif",
-				"AladinAgathe02_800.gif"
+				"aladin-agathe-1-500.jpg"
 			]
 		}
 	]

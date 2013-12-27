@@ -1,65 +1,31 @@
 {
 	"id": "bottex-s-e",
-	"name": "S.E. Bottex",
+	"name": "Seymour E. Bottex",
 	"bio": [
-		""
+		"<b>Seymour E. Bottex</b> was born on Christmas Eve, 1922 in Port Margot in the north of Haiti. His grandfather was an important General in the Haitian Army. After finishing secondary school he worked for some years as a photographer. Around 1955, encouraged by his older brother, Jean-Baptiste, another well known artist, he began to do drawings in color. In 1961 he joined the Centre d'Art, and in 1969 he began to paint in the atelier of the Galerie Issa.",
+		"Seymour Bottex uses bright colors and strong lines to depict biblical, historical and local scenes, all painted with a sense of humor. His distinctive use of curved lines gives a tender quality to his otherwise ordinary characters in everyday scenes. The clarity of line, the&nbsp;rich primary colors, and the draftsman-like skill in ecution mark Seymour Bottex as one of the most sought-after Haitian primitive painters."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "24 Dec 1922",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
-		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
-		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Untitled",
+			"date": "",
+			"height": "16",
+			"width": "20",
+			"price": "SOLD",
+			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"bottex-s-e-1-500.jpg"
 			]
 		}
 	]

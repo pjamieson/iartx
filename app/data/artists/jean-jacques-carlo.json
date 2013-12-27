@@ -2,64 +2,99 @@
 	"id": "jean-jacques-carlo",
 	"name": "Carlo Jean-Jacques",
 	"bio": [
-		""
+		"<b>Carlo Jean-Jacques</b> was born in Port-Au-Prince, Haiti on May 1, 1943. As a child, he completed a correspondence course in art from the Ecole ABC in Paris and in 1963 enrolled in the Atelier d'art of Joseph Jacob, where his instructors were Dieudonne Cedor, David LaFontant and Bernard Wah. Shortly after, one of his paintings was chosen for the Esso Competition, a singular honor for such a young man.",
+		"By 1966, Carlo had left the group and gone searching for his soul, haunting the dives of Portail Leogane, La Saline and Bel-Air, <i>'... looking at life through the bottom of a clairin bottle'</i>, according to his longtime friend and dealer, Michel Monnin. In 1969, Carlo surfaced at the Galerie Monnin with a small painting to begin an association that would last until the end of his life. Monnin describes his work, <i>'Because his design is upheld by sober colors and good tone, his works escape strict stylization and give the impression of strength and grace. Profoundly moved by the misery around him, powerless to remedy it, he displays it for us to ponder with him. And we don't miss a nuance; neither the pretty nor the ugly, the shadow nor the light. With troubled soul but tender heart, Carlo is particularly sensitive to the powerlessness of children in the drama of their daily lives.'</i?",
+		"Carlo Jean-Jacques died of AIDs in 1990."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "01 May 1943",
+	"death_date": "1990",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/cjjacques.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Medalia Art",
+			"link_url": "http://www.medalia.net/store/jean-jacquescar.html"
+		},
+		{
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianart4carlo.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Franciscus, John Allen",
+			"pages": "pg. 111.",
+			"pub_date": "1980",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "Haiti: Voodoo Kingdom to Modern Riviera"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "pg. 167.",
+			"pub_date": "1986",
 			"pub_place": "",
-			"pub_type": "",
+			"pub_type": "book",
 			"publisher": "",
-			"title": ""
+			"title": "La Peinture Haitienne"
+		},
+		{
+			"author": "AFHAC",
+			"pages": "pp. 71, 87.",
+			"pub_date": "1990",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"title": "Sister and Brother",
+			"date": "Dated 1973",
+			"height": "30",
+			"width": "24",
+			"price": "$10,000",
+			"medium": "Oil on Canvas, Framed",
+			"description": [
+				"<em>Sister and Brother</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"jean-jacques-carlo-3-500.jpg",
+				"jean-jacques-carlo-3f.jpg"
 			]
 		},
 		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Bordello Scene",
+			"date": "c. 1971",
+			"height": "16",
+			"width": "24",
+			"price": "SOLD",
+			"medium": "Oil on Masonite with Palette Knife, Framed",
+			"description": [
+				"<em>Bordello Scene</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
+			"images": [
+				"jean-jacques-carlo-2-500.jpg"
+			]
+		},
+		{
+			"title": "Reclining Nude",
+			"date": "",
+			"height": "24",
+			"width": "16",
+			"price": "SOLD",
+			"medium": "Oil on Masonite with Palette Knife, Framed",
 			"description": [""],
 			"images": [
-				""
+				"jean-jacques-carlo-1-500.jpg"
 			]
 		}
 	]

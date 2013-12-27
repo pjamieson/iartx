@@ -2,64 +2,80 @@
 	"id": "domond-wilmino",
 	"name": "Wilmino Domond",
 	"bio": [
-		""
+		"<b>Wilmino Domond</b>, born in Jacmel in 1925, was a coffee farmer before becoming inspired to paint by his cousin Castera Bazile. While never abandoning agriculture, he joined the Centre d'Art in 1948 and launched a highly successful career as a painter. Seldon Rodman, in his excellent work <em>Where Art is Joy: Haitian Art - The First Forty Years</em> says, <i>'Gerard Valcin and Wilmino Domond, next to Andre Pierre himself, were the dominant figures of the second generation.'</i>",
+		"Wilmino Domond's typical subject matter are scenes from everyday life and vodou. In recent years, his output has significantly decreased and he once again devotes most of his energy to his farm outside Jacmel.",
+		"His work is included in the permanent collections of the Davenport Museum of Art in Iowa and the Wadsworth Atheneum in Hartford, Connecticut."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
+	"bio_credit_name": "The Electric Gallery",
+	"bio_credit_url": "http://www.egallery.com/artists/?id=49",
+	"birth_date": "1925",
 	"death_date": "",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Arte del Pueblo",
+			"link_url": "http://haitian.artedelpueblo.com/catalog/query.php?keywords=domond&srch.x=-999&srch.y=-222&dealers=jznica&category=&view=icon&fromtrocadero=1"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "The Chicago Gallery of Art",
+			"link_url": "http://www.chigoha.com/artist-galleries/wilmino-domond/"
+		},
+		{
+			"link_name": "The Electric Gallery",
+			"link_url": "http://www.egallery.com/artists/?id=49"
+		},
+		{
+			"link_name": "Figge Art Museum",
+			"link_url": "http://www.figgeartmuseum.org/getdoc/f9a687b9-f857-4aa1-a8f8-55fec96b7b1d/D.aspx"
+		},
+		{
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/wdomond.html"
 		}
 	],
 	"publications": [
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Fernandez Mendez, Eugenio",
+			"pages": "pp. 61, 94.",
+			"pub_date": "1972",
 			"pub_place": "",
 			"pub_type": "",
 			"publisher": "",
-			"title": ""
+			"title": "Le Primitivisme Haitien"
 		},
 		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
+			"author": "Knight, Gregory G.",
+			"pages": "pp. 17, 20.",
+			"pub_date": "1983",
 			"pub_place": "",
 			"pub_type": "",
 			"publisher": "",
-			"title": ""
+			"title": "Under the Spell: The Art of Haiti"
+		},
+		{
+			"author": "Demme, Jonathan",
+			"pages": "pg. 44.",
+			"pub_date": "1997",
+			"pub_place": "",
+			"pub_type": "",
+			"publisher": "",
+			"title": "Island on Fire"
 		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
+			"title": "Marchandes (Market Women)",
 			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"width": "16",
+			"price": "$2,500",
+			"medium": "Oil on Masonite, Framed",
+			"description": [
+				"<em>Marchandes</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
+				"domond-wilmino-1-500.jpg",
+				"domond-wilmino-1f.jpg"
 			]
 		}
 	]

@@ -2,64 +2,44 @@
 	"id": "pierre-andre",
 	"name": "André Pierre",
 	"bio": [
-		""
+		"<b>André Pierre</b> was born in Port-au-Prince, Haiti around 1915. At an early age he moved to Croix-des-Missions, on the outskirts of the capital, where he made his living as a farmer. A practitioner of Voudou since childhood, Pierre met the American filmmaker Maya Deren in the late 1940's.&nbsp; Deren had come to Haiti to make a film on dance, and had become an initiate in the houmfour where Pierre was <i>La Place</i>, second in command. The houmfour was decorated with gourds on which Pierre had painted images of vodou spirits. Deren suggested that he should paint on canvas and offer his paintings to the Centre d'Art, which he did. Shortly afterwards Pierre began a twenty year relationship with the dealer Issa el Saieh, and went early each morning to the capital to paint in the atelier that Issa provided. Eventually he became so renowned, not only for his art but for his personality, that he stopped going to Issa's and painted in the compound where he lived and where he had built his own houmfour.",
+		"André Pierre was the dominant artist of the second generation, and is considered the spiritual heir to the legendary Hector Hyppolite. Collectors and journalists from all over the world came to visit him in the modest hut where he painted lovingly detailed portraits of the gods of the vodou pantheon by the light of an oil lamp. His mission in life was to present Vodou as respectable, on a par with all the other major religions. His pronouncements on Vodou, and on life in general, were wise and sophisticated and were often punctuated with his trademark subterranean chuckle.",
+		"As the political situation in Haiti worsened in the mid 1990's and the road to Croix-des-Missions became less safe to travel, Pierre became somewhat isolated. In the last few years of his life he was diagnosed with diabetes which affected his eyesight and his ability to paint. By 2004 he was almost totally blind and had stopped painting altogether. He passed away on October 4, 2005."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "c. 1915",
+	"death_date": "04 Oct 2005",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Society",
+			"link_url": "http://haitianartsociety.org/photo.html"
 		},
 		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianartapierre.html"
+		},
+		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://www.indigoarts.com/gallery_haiti_a.pierre1.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
-			"medium": "Acrylic on Canvas, Framed",
+			"title": "Dambala Wedo, Erzulie Fréda Daromey et Maitre Agou Fieraille",
+			"date": "c. 1984",
+			"height": "29½",
+			"width": "39",
+			"price": "$8,000",
+			"medium": "Oil on Linen, Stretcher edges finished w/black tape",
 			"description": [""],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"pierre-andre-1-500.jpg",
+				"pierre-andre-1f.jpg"
 			]
 		}
 	]

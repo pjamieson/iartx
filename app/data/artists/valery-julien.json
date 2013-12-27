@@ -2,64 +2,36 @@
 	"id": "valery-julien",
 	"name": "Julien Valery",
 	"bio": [
-		""
+		"<b>Julien Valery</b> was born in 1958 in the small village of Coteau and was considered one of the most promising of the younger generation of Haitian artists. His paintings are anecdotal in subject, depicting such events as joyful weddings, magical ceremonies with mermaids, esoteric voodoo rituals and celebratory feasts. Both thoughtful and original, his work is also often humorous and startling, with hidden touches that might be missed at first glance.",
+		"Sadly, Julien Valery died in July 2001."
 	],
-	"bio_credit_name": "",
-	"bio_credit_url": "",
-	"birth_date": "",
-	"death_date": "",
+	"bio_credit_name": "Haitian Art Company",
+	"bio_credit_url": "http://www.haitian-art-co.com",
+	"birth_date": "1958",
+	"death_date": "Jul 2001",
+	"country": "Haiti",
 	"image_url": "",
 	"links": [
 		{
-			"link_name": "",
-			"link_url": ""
-		},
-		{
-			"link_name": "",
-			"link_url": ""
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/jvalery.html"
 		}
 	],
 	"publications": [
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		},
-		{
-			"author": "",
-			"pages": "",
-			"pub_date": "",
-			"pub_place": "",
-			"pub_type": "",
-			"publisher": "",
-			"title": ""
-		}
 	],
 	"artworks": [
 		{
-			"title": "",
-			"height": "",
-			"width": "",
-			"price": "",
+			"title": "Boat People",
+			"date": "c. 1993",
+			"height": "24",
+			"width": "36",
+			"price": "SOLD",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"<em>Boat People</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
+			],
 			"images": [
-				""
-			]
-		},
-		{
-			"title": "Seaside Village",
-			"height": "20",
-			"width": "30",
-			"price": "500",
-			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
-			"images": [
-				""
+				"valery-julien-1-500.jpg"
 			]
 		}
 	]

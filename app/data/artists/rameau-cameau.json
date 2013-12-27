@@ -1,0 +1,58 @@
+{
+	"id": "rameau-cameau",
+	"name": "Cameau Rameau",
+	"bio": [
+		"<b>Cameau Rameau</b> (also known as Rameau Cameau) was born in 1943. He began to paint in 1973 under guidance of his brother-in-law, Calixte Henri. Typically, he paints with a razor blade. Cameau Rameau is married with four sons."
+	],
+	"bio_credit_name": "Art Works for Haiti",
+	"bio_credit_url": "http://artworksforhaiti.com/Artists_Maine/Rameau.html",
+	"birth_date": "1943",
+	"death_date": "",
+	"country": "Haiti",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Vassar Haiti Project",
+			"link_url": "http://thehaitiproject.org/browse-by-artist/cameau-rameau/"
+		},
+		{
+			"link_name": "Haitian Art Company",
+			"link_url": "http://www.haitian-art-co.com/artists/cameau.html"
+		}
+	],
+	"publications": [
+		{
+			"author": "Drot, Jean-Marie",
+			"pages": "",
+			"pub_date": "1994",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "An Encounter between Two Worlds as Seen by Haiti's Artists"
+		},
+		{
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "",
+			"pub_date": "1986",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne"
+		}
+	],
+	"artworks": [
+		{
+			"title": "Fishing",
+			"date": "",
+			"height": "16",
+			"width": "20",
+			"price": "$500",
+			"medium": "Oil on Masonite, Framed",
+			"description": [""],
+			"images": [
+				"",
+				""
+			]
+		}
+	]
+}
