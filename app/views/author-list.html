@@ -15,7 +15,7 @@
 
             <ul class="nav navbar-nav">
               <li ng-repeat="paragraph in author.bio">
-                <p class="bio" ng-bind-html-unsafe="paragraph"></p>
+                <p class="bio" ng-bind-html="paragraph"></p>
             </ul>
 
             <ul class="book nav navbar-nav">
@@ -24,7 +24,7 @@
 
                 <ul class="nav navbar-nav">
                   <li ng-repeat="paragraph in book.summary">
-                    <p class="summary" ng-bind-html-unsafe="paragraph"></p>
+                    <p class="summary" ng-bind-html="paragraph"></p>
                 </ul>
 
                 <ul class="nav navbar-nav">

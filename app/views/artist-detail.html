@@ -6,7 +6,7 @@
 
   <ul class="padded-top nav">
     <li ng-repeat="paragraph in data.artist.bio">
-      <p class="bio" ng-bind-html-unsafe="paragraph"></p>
+      <p class="bio" ng-bind-html="paragraph"></p>
   </ul>
   <div class="bio-credit pull-right" ng-show="data.artist.bio_credit_name.length > 0">
     <p>[Biographic notes from <a target="_blank" ng-href="{{data.artist.bio_credit_url}}">{{data.artist.bio_credit_name}}</a>]</p>
@@ -41,7 +41,7 @@
         <div class="span12">
           <ul class="padded-top nav">
             <li ng-repeat="paragraph in artwork.description">
-              <p class="bio" ng-bind-html-unsafe="paragraph"></p>
+              <p class="bio" ng-bind-html="paragraph"></p>
           </ul>
         </div>
       </div>

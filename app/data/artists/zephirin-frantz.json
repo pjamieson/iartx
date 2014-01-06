@@ -19,8 +19,16 @@
 			"link_url": "http://www.artshaitian.com/Pages/zphpntng36.html"
 		},
 		{
+			"link_name": "Galerie Monnin",
+			"link_url": "http://www.galeriemonnin.com/frantzzephirin.html"
+		},
+		{
 			"link_name": "Haitian Art Company",
 			"link_url": "http://www.haitian-art-co.com/artists/fzephirin.html"
+		},
+		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://www.indigoarts.com/news_zephirin2010.html"
 		},
 		{
 			"link_name": "Medalia Art",
@@ -59,7 +67,7 @@
 				"The meanings of the symbols seen in the above painting were explained as follows by Marie Coine Kravitz, the wife of Boris Kravitz (owner of the Haitian Art Company in Key West, Florida) and the daughter of the Haitian artist Theard Aladin:",
 				"This painting is about <i>'the Lavalas situation'</i> from its beginnings in the late 1980s. The image of Haitian President Jean Bertrand Aristide on the left illustrates how he presents himself as a dignified statesman and an open-armed champion of his people.&nbsp; The image on the right represents the suspicion some felt about Aristide, the priest who was perhaps <i>'too good to be true.'</i> The duo-toned face suggests he's half-man, half-god, but his right hand is <i>'a bird who eats the meat of dead people.'</i>' The moon over his shoulder signifies that his time has come, while the fact that we cannot see the end of his tail suggests <i>'we can't tell what may happen with him.'</i>",
 				"The dominant figure in the center of the painting symbolizes the countries that have controlled Haitian politics, as represented by the five flags at the bottom. <i>'Our suffering comes from them; they push us to something, but it's not good for us.'</i>' The small, round photo just above the top button of the dominant figure's shirt is of the face of Lieutenant General Prosper Avril, the dictator who took power in a September 1988 military coup. It is significant that Avril is very small compared to the flags and to Aristide. The people wanted Aristide, and they elected him President in 1990 in Haiti's first free elections.",
-				"The round face seen peering from between the teeth of the dominant countries represents the Haitian people and how they suffer. <i>'We are their chewing gum; they eat us.'</i",
+				"The round face seen peering from between the teeth of the dominant countries represents the Haitian people and how they suffer. <i>'We are their chewing gum; they eat us.'</i>",
 				"<em>The 3 Faces of Aristide</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
 			],
 			"images": [
@@ -73,11 +81,15 @@
 			"height": "16",
 			"width": "16",
 			"price": "$3,500",
-			"medium": "Acrylic on Canvas, Self-Framed",
-			"description": [""],
+			"medium": "Acrylic on Canvas, with the image wrapping around the edges of the stretcher",
+			"description": [
+				"<em>Baron Samedi, Grande Brigitte, Ghédé Nibo</em> was one of a special collection of 49 paintings that Zephirin created in 2009 to celebrate 25 years of representation by Haiti's Galerie Monnin.  In all of these paintings, the image wraps around the edges of the stretchers."
+			],
 			"images": [
 				"zephirin-frantz-2-500.jpg",
-				"zephirin-frantz-2f.jpg"
+				"zephirin-frantz-2f.jpg",
+				"zephirin-frantz-2d-500.jpg",
+				"zephirin-frantz-2b-500.jpg"
 			]
 		}
 	]

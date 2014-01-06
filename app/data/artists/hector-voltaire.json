@@ -8,7 +8,7 @@
 	],
 	"bio_credit_name": "Haitian Art Company",
 	"bio_credit_url": "",
-	"birth_date": "",
+	"birth_date": "1952",
 	"death_date": "",
 	"country": "Haiti",
 	"image_url": "",
@@ -30,12 +30,12 @@
 			"date": "c. 1986",
 			"height": "24",
 			"width": "24",
-			"price": "$760",
+			"price": "$750",
 			"medium": "Oil on Masonite, Framed",
 			"description": [""],
 			"images": [
-				"",
-				""
+				"hector-voltaire-1-500.jpg",
+				"hector-voltaire-1f.jpg"
 			]
 		}
 	]

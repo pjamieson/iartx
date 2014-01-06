@@ -1,0 +1,49 @@
+{
+	"id": "profil-jonas",
+	"name": "Jonas Profil",
+	"bio": [
+		"<b>Jonas Profil</b> was born in Fort Liberte, near Cap Haitien on July 22, 1957. His father was a souvenir vendor. At age 18 Jonas took the money given to him for school and bought art supplies. Since that day he has been a painter. Although he now lives and paints in Port-au-Prince, he considers himself a Capois and signs his work 'Cap Haitien'. His paintings are wry observations of Haitian life rendered in pale and pastel colors that are unique for Haiti. Many of his paintings are laced with generous doses of fantasy. In Michelle Granjean's wonderful book, <i>Artistes in Haiti</i>, Profil says that his paintings speak uniquely of peace and love. He is a vodouist, and feels that the problems in that religion are caused by men, not the religion."
+	],
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "22 Jul 1957",
+	"death_date": "",
+	"country": "Haiti",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianprofil.html"
+		},
+		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://www.indigoarts.com/gallery_haiti_jprofil.html"
+		}
+	],
+	"publications": [
+		{
+			"author": "Granjean, Michelle",
+			"pages": "",
+			"pub_date": "1997",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "Artistes en Haiti: Cent Parmi d'Autres"
+		}
+	],
+	"artworks": [
+		{
+			"title": "The Great Escape",
+			"date": "",
+			"height": "28",
+			"width": "40",
+			"price": "$1500",
+			"medium": "Oil on Canvas, Framed",
+			"description": [""],
+			"images": [
+				"profil-jonas-1-500.jpg",
+				"profil-jonas-1f.jpg"
+			]
+		}
+	]
+}

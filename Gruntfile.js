@@ -11,6 +11,8 @@ module.exports = function (grunt) {
   require('load-grunt-tasks')(grunt);
   require('time-grunt')(grunt);
 
+  grunt.loadNpmTasks('grunt-html-snapshot'); // added by PAJ 1/3/2014
+
   grunt.initConfig({
     yeoman: {
       // configurable paths
@@ -317,6 +319,65 @@ module.exports = function (grunt) {
         files: {
           '<%= yeoman.dist %>/scripts/scripts.js': [
             '<%= yeoman.dist %>/scripts/scripts.js'
+          ]
+        }
+      }
+    },
+    // htmlSnapshot added 01/03/2014 by PAJ
+    htmlSnapshot: {
+      all: {
+        options: {
+          snapshotPath: 'snapshots/',
+          fileNamePrefix: '',
+          sitePath: 'http://127.0.0.1:9000/',
+          removeScripts: true,
+          replaceStrings:[
+            {'ng-': 'ngx-'},
+            {'row-fluid': 'xrow-fluid'}
+          ],
+          urls: [
+            '#!/index',
+            '#!/booklist',
+            '#!/sources',
+            '#!/notes',
+            '#!/about',
+            '#!/contact',
+            '#!/artists/aladin-agathe',
+            '#!/artists/auguste-toussaint',
+            '#!/artists/casimir-laurent',
+            '#!/artists/desrosiers-m',
+            '#!/artists/domond-ezene',
+            '#!/artists/domond-wilmino',
+            '#!/artists/hector-voltaire',
+            '#!/artists/jean-marie-carmel',
+            '#!/artists/jean-ulrick',
+            '#!/artists/jean-jacques-carlo',
+            '#!/artists/joseph-reynald',
+            '#!/artists/maurice-a-m',
+            '#!/artists/obin-fritzner',
+            '#!/artists/pierre-andre',
+            '#!/artists/pierre-eddy',
+            '#!/artists/profil-jonas',
+            '#!/artists/rameau-cameau',
+            '#!/artists/st-fleur-michelle',
+            '#!/artists/zephirin-frantz',
+            '#!/artists/aladin-theard',
+            '#!/artists/alphonse-fritzner',
+            '#!/artists/bottex-s-e',
+            '#!/artists/dupoux-raoul',
+            '#!/artists/etienne-gregoire',
+            '#!/artists/francois-roger',
+            '#!/artists/guillaume-jean-jacques',
+            '#!/artists/ismael-saincilus',
+            '#!/artists/jacques-harry',
+            '#!/artists/jean-jean-baptiste',
+            '#!/artists/jose-hilome',
+            '#!/artists/louissaint-jacques',
+            '#!/artists/louizor-ernst',
+            '#!/artists/obin-othon',
+            '#!/artists/robuste-jean-claude',
+            '#!/artists/valcin-pierre-joseph',
+            '#!/artists/valery-julien'
           ]
         }
       }

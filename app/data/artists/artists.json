@@ -1,6 +1,7 @@
 [
 	{
 		"id": "aladin-agathe",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Agathe",
@@ -8,6 +9,7 @@
 	},
 	{
 		"id": "aladin-theard",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Theard",
@@ -15,6 +17,7 @@
 	},
 	{
 		"id": "alphonse-fritzner",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Fritzner",
@@ -22,6 +25,7 @@
 	},
 	{
 		"id": "auguste-toussaint",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Toussaint",
@@ -29,6 +33,7 @@
 	},
 	{
 		"id": "bottex-s-e",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "S.E.",
@@ -36,6 +41,7 @@
 	},
 	{
 		"id": "casimir-laurent",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Laurent",
@@ -43,6 +49,7 @@
 	},
 	{
 		"id": "desrosiers-m",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "M.",
@@ -50,6 +57,7 @@
 	},
 	{
 		"id": "domond-ezene",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Ezene",
@@ -57,6 +65,7 @@
 	},
 	{
 		"id": "domond-wilmino",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Wilmino",
@@ -64,6 +73,7 @@
 	},
 	{
 		"id": "dupoux-raoul",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Raoul",
@@ -71,6 +81,7 @@
 	},
 	{
 		"id": "etienne-gregoire",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Gregoire",
@@ -78,6 +89,7 @@
 	},
 	{
 		"id": "francois-roger",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Roger",
@@ -85,6 +97,7 @@
 	},
 	{
 		"id": "guillaume-jean-jacques",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Jean-Jacques",
@@ -92,6 +105,7 @@
 	},
 	{
 		"id": "hector-voltaire",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Voltaire",
@@ -99,6 +113,7 @@
 	},
 	{
 		"id": "ismael-saincilus",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Saincilus",
@@ -106,6 +121,7 @@
 	},
 	{
 		"id": "jacques-harry",
+		"cat": "sold",
 		"aka": "Arijac",
 		"country": "Haiti",
 		"first_name": "Harry",
@@ -113,6 +129,7 @@
 	},
 	{
 		"id": "jean-jean-baptiste",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Jean-Baptiste",
@@ -120,6 +137,7 @@
 	},
 	{
 		"id": "jean-marie-carmel",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Marie Carmel",
@@ -127,6 +145,7 @@
 	},
 	{
 		"id": "jean-ulrick",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Ulrick",
@@ -134,6 +153,7 @@
 	},
 	{
 		"id": "jean-jacques-carlo",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Carlo",
@@ -141,6 +161,7 @@
 	},
 	{
 		"id": "jose-hilome",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Hilome",
@@ -148,6 +169,7 @@
 	},
 	{
 		"id": "joseph-reynald",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Reynald",
@@ -155,6 +177,7 @@
 	},
 	{
 		"id": "louissaint-jacques",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Jacques",
@@ -162,6 +185,7 @@
 	},
 	{
 		"id": "louizor-ernst",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Ernst",
@@ -169,6 +193,7 @@
 	},
 	{
 		"id": "maurice-a-m",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "A.M.",
@@ -176,6 +201,7 @@
 	},
 	{
 		"id": "obin-fritzner",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Fritzner",
@@ -183,6 +209,7 @@
 	},
 	{
 		"id": "obin-othon",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Othon",
@@ -190,6 +217,7 @@
 	},
 	{
 		"id": "pierre-andre",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "André",
@@ -197,13 +225,23 @@
 	},
 	{
 		"id": "pierre-eddy",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Eddy",
 		"last_name": "Pierre"
 	},
 	{
+		"id": "profil-jonas",
+		"cat": "avail",
+		"aka": "",
+		"country": "Haiti",
+		"first_name": "Jonas",
+		"last_name": "Profil"
+	},
+	{
 		"id": "rameau-cameau",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Cameau",
@@ -211,6 +249,7 @@
 	},
 	{
 		"id": "robuste-jean-claude",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Jean Claude",
@@ -218,6 +257,7 @@
 	},
 	{
 		"id": "st-fleur-michelle",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Michelle",
@@ -225,6 +265,7 @@
 	},
 	{
 		"id": "valcin-pierre-joseph",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Pierre Joseph",
@@ -232,6 +273,7 @@
 	},
 	{
 		"id": "valery-julien",
+		"cat": "sold",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Julien",
@@ -239,6 +281,7 @@
 	},
 	{
 		"id": "zephirin-frantz",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Frantz",
