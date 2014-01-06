@@ -2,6 +2,14 @@
 
 angular.module('iartxServices', ['ngResource'])
 
+	.factory('Page', function(){
+		var title = '';
+	    return {
+	    	title: function() { return title; },
+	    	setTitle: function(newTitle) { title = newTitle; }
+	    };
+	  })
+
 	.factory('Authors', function($resource){
 	    return $resource('data/authors/authors.json', {});
 	  })

@@ -72,8 +72,9 @@ angular.module('iartxApp', [
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
-        templateUrl: 'views/main.html'
-      })
+        templateUrl: 'views/main.html',
+        controller: 'HomeCtrl'
+       })
       .when('/artists/:artistId', {
         templateUrl: 'views/artist-detail.html',
         controller: 'ArtistDetailCtrl'
@@ -83,16 +84,20 @@ angular.module('iartxApp', [
         controller: 'AuthorListCtrl'
       })
       .when('/sources', {
-        templateUrl: 'views/sources.html'
+        templateUrl: 'views/sources.html',
+        controller: 'SourcesCtrl'
       })
       .when('/notes', {
-        templateUrl: 'views/notes.html'
+        templateUrl: 'views/notes.html',
+        controller: 'NotesCtrl'
       })
       .when('/about', {
-        templateUrl: 'views/about.html'
+        templateUrl: 'views/about.html',
+        controller: 'AboutCtrl'
       })
       .when('/contact', {
-        templateUrl: 'views/contact.html'
+        templateUrl: 'views/contact.html',
+        controller: 'ContactCtrl'
       })
       .otherwise({
         redirectTo: '/'
