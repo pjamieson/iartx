@@ -2,4 +2,4 @@
 
 User-agent: *
 
-Sitemap: http://westindiesbooks.com/sitemap.xml
+Sitemap: http://iartx.com/sitemap.xml

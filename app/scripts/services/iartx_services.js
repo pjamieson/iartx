@@ -4,9 +4,12 @@ angular.module('iartxServices', ['ngResource'])
 
 	.factory('Page', function(){
 		var title = '';
+		var description = '';
 	    return {
 	    	title: function() { return title; },
-	    	setTitle: function(newTitle) { title = newTitle; }
+	    	description: function() { return description; },
+	    	setTitle: function(newTitle) { title = newTitle; },
+	    	setDescription: function(newDescription) { description = newDescription; }
 	    };
 	  })
 

@@ -2,25 +2,28 @@
 
 	<h1 align="center">About</h1>
 
-	<h3 align="center">WestIndiesBooks.com</h3>
+	<h3 align="center">WestIndiesBooks.com and iArtX.com</h3>
 
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
-	</br>
+	<div class="long-text">
+		<p>I (Patrick Jamieson) am a book collector, an art collector and, by profession, a computer programmer.  I own the websites iArtX.com, iBookX.com, and WestIndiesBooks.com.  Over the years, these three sites have served as my professional training and testing grounds, allowing me to expand my personal web development skills set.  The following is a somewhat technical description of the evolution of those sites, and is probably only of interest to other web developers.</p>
+
+		<p>WestIndiesBooks.com was initially developed in 1997 as a single, static HTML page that listed books by West Indian Authors.  At that time, professionally, I was developing Windows applications in C++. That initial release of WestIndiesBooks.com was my first hands-on experience with HTML and web development.</p>
+
+		<p>In 2002, I completely re-wrote WestIndiesBooks.com as an ASP.NET site.  The primary language was C#, and the book data was moved into an XML file.  This allowed dynamic sorting and filtering of the booklist, based on user-entered criteria.  Subsequently, I added the Haitian Art features: An index of artists that was included on every page in the site, and individual ASPX pages for each artist.</p>
+
+		<p>In 2007, I developed my first site based on Adobe Flex 3 and ActionScript, but that's another story....</p>
+
+		<p>The current WestIndiesBooks.com site is the result of another complete re-write in late 2013.  The base platform is now AngularJS, seeded from the <a target="_blank" href="https://github.com/yeoman/generator-angular">Yeoman Generator for AngularJS</a>, at GitHub and the primary programming languages employed are JavaScript, HTML5, and CSS3.  The data is now in JSON files that live in the same folder as the site's index.html file, thus eliminating any need for external data requests.  (On a larger site with more data, API calls to an external datasource would be expected to return the same JSON.)  The Artist Index and Artist Detail views are each single AngularJS HTML partials that are populated dynamically from the JSON data, based on user interaction.  Content changes do not require modification of any of the JavaScript or HTML; adding, updating, or removing any authors, books, artists, or paintings is accomplished by adding or editing JSON files.</p>
+
+		<p>January 2014 saw the launch of iArtX.com.  Initially, it has the same Haitian Art content found on WestindiesBooks.com, but not the West Indian Literature content.  The plan going forward is to remove the Hatian Art content from WestIndiesBooks.com, while leaving it on iArtX.com, then to have the two sites each evolve separately.</p>
+
+		<p>Both sites are hosted on Amazon S3.  This is possible because neither site needs to make remote calls; remote calls cannot be made by S3-hosted sites.  (If I had to make remote calls, I would then look to Amazon EC2 for hosting.)</p>
+
+		<p>In order to make the sites crawlable by serach engine robots, I followed the suggestions in the document <a target="_blank" href="https://developers.google.com/webmasters/ajax-crawling/docs/getting-started">Google Developers - Crawling AJAX</a>.  For SEO, code was added to dynamically generate unique, appropriate page titles and descriptions.  I generate html page snapshots for the search crawlers with the <a target="_blank" href="https://github.com/cburgdorf/grunt-html-snapshot">grunt-html-snapshot</a> utility found on GitHub.  
+
+		<p>For tracking, Google Analytics is implemented on both sites.</p>
+
+		<p>Finally, I am making the <a target="_blank" href="https://github.com/pjamieson/iartx">site source code</a> freely available at GitHub.</p> 
+	</div>
 
 </div>

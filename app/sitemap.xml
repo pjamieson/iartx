@@ -1,216 +1,206 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://westindiesbooks.com/</loc>
+    <loc>http://iartx.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/booklist</loc>
+    <loc>http://iartx.com/#!/notes</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/sources</loc>
+    <loc>http://iartx.com/#!/about</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/notes</loc>
+    <loc>http://iartx.com/#!/contact</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/about</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/contact</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/LifeInBoldColors.pdf</loc>
+    <loc>http://iartx.com/LifeInBoldColors.pdf</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/aladin-agathe</loc>
+    <loc>http://iartx.com/#!/artists/aladin-agathe</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/auguste-toussaint</loc>
+    <loc>http://iartx.com/#!/artists/auguste-toussaint</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/casimir-laurent</loc>
+    <loc>http://iartx.com/#!/artists/casimir-laurent</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/desrosiers-m</loc>
+    <loc>http://iartx.com/#!/artists/desrosiers-m</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/domond-ezene</loc>
+    <loc>http://iartx.com/#!/artists/domond-ezene</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/domond-wilmino</loc>
+    <loc>http://iartx.com/#!/artists/domond-wilmino</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/hector-voltaire</loc>
+    <loc>http://iartx.com/#!/artists/hector-voltaire</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-marie-carmel</loc>
+    <loc>http://iartx.com/#!/artists/jean-marie-carmel</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-ulrick</loc>
+    <loc>http://iartx.com/#!/artists/jean-ulrick</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-jacques-carlo</loc>
+    <loc>http://iartx.com/#!/artists/jean-jacques-carlo</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/joseph-reynald</loc>
+    <loc>http://iartx.com/#!/artists/joseph-reynald</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/maurice-a-m</loc>
+    <loc>http://iartx.com/#!/artists/maurice-a-m</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/obin-fritzner</loc>
+    <loc>http://iartx.com/#!/artists/obin-fritzner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/pierre-andre</loc>
+    <loc>http://iartx.com/#!/artists/pierre-andre</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/pierre-eddy</loc>
+    <loc>http://iartx.com/#!/artists/pierre-eddy</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/profil-jonas</loc>
+    <loc>http://iartx.com/#!/artists/profil-jonas</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/rameau-cameau</loc>
+    <loc>http://iartx.com/#!/artists/rameau-cameau</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/st-fleur-michelle</loc>
+    <loc>http://iartx.com/#!/artists/st-fleur-michelle</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/zephirin-frantz</loc>
+    <loc>http://iartx.com/#!/artists/zephirin-frantz</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/aladin-theard</loc>
+    <loc>http://iartx.com/#!/artists/aladin-theard</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/alphonse-fritzner</loc>
+    <loc>http://iartx.com/#!/artists/alphonse-fritzner</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/bottex-s-e</loc>
+    <loc>http://iartx.com/#!/artists/bottex-s-e</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/dupoux-raoul</loc>
+    <loc>http://iartx.com/#!/artists/dupoux-raoul</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/etienne-gregoire</loc>
+    <loc>http://iartx.com/#!/artists/etienne-gregoire</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/francois-roger</loc>
+    <loc>http://iartx.com/#!/artists/francois-roger</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/guillaume-jean-jacques</loc>
+    <loc>http://iartx.com/#!/artists/guillaume-jean-jacques</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/ismael-saincilus</loc>
+    <loc>http://iartx.com/#!/artists/ismael-saincilus</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jacques-harry</loc>
+    <loc>http://iartx.com/#!/artists/jacques-harry</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-jean-baptiste</loc>
+    <loc>http://iartx.com/#!/artists/jean-jean-baptiste</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/jose-hilome</loc>
+    <loc>http://iartx.com/#!/artists/jose-hilome</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/louissaint-jacques</loc>
+    <loc>http://iartx.com/#!/artists/louissaint-jacques</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/louizor-ernst</loc>
+    <loc>http://iartx.com/#!/artists/louizor-ernst</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/obin-othon</loc>
+    <loc>http://iartx.com/#!/artists/obin-othon</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/robuste-jean-claude</loc>
+    <loc>http://iartx.com/#!/artists/robuste-jean-claude</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/valcin-pierre-joseph</loc>
+    <loc>http://iartx.com/#!/artists/valcin-pierre-joseph</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/valery-julien</loc>
+    <loc>http://iartx.com/#!/artists/valery-julien</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

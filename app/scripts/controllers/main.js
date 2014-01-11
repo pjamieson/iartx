@@ -37,6 +37,7 @@ iartxControllers.controller('ArtistListCtrl', ['$scope', 'Artists',
     	Artist.get({artistId: $routeParams.artistId}, function(response) {
     		$scope.data.artist = response;
         Page.setTitle($scope.data.artist.name + ' - Artist - ' + $scope.data.artist.country);
+        Page.setDescription('Haitian Art for sale. Featuring paintings by the respected Haitian artist ' + $scope.data.artist.name + '.');
 	   });
   }]);
 
@@ -51,26 +52,35 @@ iartxControllers.controller('ArtworkDetailCtrl', ['$scope',
 iartxControllers.controller('HomeCtrl', ['$scope', 'Page',
   function($scope, Page) {
     Page.setTitle('Haitian Art and West Indian Literature');
+    Page.setDescription('Haitian Art offered for sale and a reference list of West Indian Literature.');
+    //Page.setTitle('Haitian Art at the Internet Art Exchange');
+    //Page.setDescription('Haitian Art and other Art of the Americas offered for sale.');
   }]);
 
 iartxControllers.controller('SourcesCtrl', ['$scope', 'Page',
   function($scope, Page) {
     Page.setTitle('West Indian Literature - Sources');
+    Page.setDescription('Sources used in compiling our reference list of West Indian Literature.');
   }]);
 
 iartxControllers.controller('NotesCtrl', ['$scope', 'Page',
   function($scope, Page) {
     Page.setTitle('Haitian Art Collection Notes');
+    Page.setDescription('Notes about our Haitian Art Collection, and our buying and selling of Haitian Art.');
   }]);
 
 iartxControllers.controller('AboutCtrl', ['$scope', 'Page',
   function($scope, Page) {
-    Page.setTitle('West Indian Literature - About');
+    Page.setTitle('WestIndiesBooks.com and iBookX.com - About');
+    Page.setDescription('Technical notes on the development of WestIndiesBooks.com and iBookX.com.');
   }]);
 
 iartxControllers.controller('ContactCtrl', ['$scope', 'Page',
   function($scope, Page) {
     Page.setTitle('West Indian Literature - Contact');
+    Page.setDescription('How to contact us to buy or sell Haitian Art or add a book to our reference list');
+    //Page.setTitle('Internet Art Exchange - Contact');
+    //Page.setDescription('How to contact us to buy or sell Haitian Art, or to learn more about listing your art on this site.');
   }]);
 
  
