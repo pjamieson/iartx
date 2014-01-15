@@ -51,10 +51,10 @@ iartxControllers.controller('ArtworkDetailCtrl', ['$scope',
 
 iartxControllers.controller('HomeCtrl', ['$scope', 'Page',
   function($scope, Page) {
-    Page.setTitle('Haitian Art and West Indian Literature');
-    Page.setDescription('Haitian Art offered for sale and a reference list of West Indian Literature.');
-    //Page.setTitle('Haitian Art at the Internet Art Exchange');
-    //Page.setDescription('Haitian Art and other Art of the Americas offered for sale.');
+    //Page.setTitle('Haitian Art and West Indian Literature');
+    //Page.setDescription('Haitian Art offered for sale and a reference list of West Indian Literature.');
+    Page.setTitle('Haitian Art at the Internet Art Exchange');
+    Page.setDescription('Haitian Art and other Art of the Americas offered for sale.');
   }]);
 
 iartxControllers.controller('SourcesCtrl', ['$scope', 'Page',
@@ -71,16 +71,16 @@ iartxControllers.controller('NotesCtrl', ['$scope', 'Page',
 
 iartxControllers.controller('AboutCtrl', ['$scope', 'Page',
   function($scope, Page) {
-    Page.setTitle('WestIndiesBooks.com and iBookX.com - About');
+    Page.setTitle('About - iArtX.com and WestIndiesBooks.com');
     Page.setDescription('Technical notes on the development of WestIndiesBooks.com and iBookX.com.');
   }]);
 
 iartxControllers.controller('ContactCtrl', ['$scope', 'Page',
   function($scope, Page) {
-    Page.setTitle('West Indian Literature - Contact');
-    Page.setDescription('How to contact us to buy or sell Haitian Art or add a book to our reference list');
-    //Page.setTitle('Internet Art Exchange - Contact');
-    //Page.setDescription('How to contact us to buy or sell Haitian Art, or to learn more about listing your art on this site.');
+    //Page.setTitle('West Indian Literature - Contact');
+    //Page.setDescription('How to contact us to buy or sell Haitian Art or add a book to our reference list');
+    Page.setTitle('Internet Art Exchange - Contact');
+    Page.setDescription('How to contact us to buy or sell Haitian Art, or to learn more about listing your art on this site.');
   }]);
 
  
