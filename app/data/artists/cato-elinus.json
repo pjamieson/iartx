@@ -1,0 +1,36 @@
+{
+	"id": "cato-elinus",
+	"name": "Elinus Cato",
+	"bio": [
+		"<b>Elinus Cato</b> was born in St. Patrick, Grenada in 1933 and rose to prominence as a very popular painter. His works of town and rural Grenandian life dipict bright and colorful scenes. One such piece, <em>People at Work</em>, was presented to Queen Elizabeth II when she visited the island in 1985.",
+		"Elinus Cato died in 2004."
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "1933",
+	"death_date": "2004",
+	"country": "Grenada",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "The Royal Collection",
+			"link_url": "http://www.royalcollection.org.uk/microsites/queenandcommonwealth/MicroObject.asp?row=55&themeid=944&item=55"
+		}
+	],
+	"publications": [],
+	"artworks": [
+		{
+			"title": "Going Home",
+			"date": "Dated 1989",
+			"height": "18",
+			"width": "24",
+			"price": "$750",
+			"medium": "Oil on Masonite, Framed",
+			"description": [],
+			"images": [
+				"cato-elinus-1-500.jpg",
+				"cato-elinus-1f.jpg"
+			]
+		}
+	]
+}

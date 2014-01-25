@@ -1,0 +1,64 @@
+{
+	"id": "rodriguez-maria-dolores",
+	"name": "María Dolores Rodríguez",
+	"bio": [
+		"<b>María Dolores Rodríguez</b> was born in Ponce, Puerto Rico in 1955. She studied at the Escuela de Artes Plásticas in San Juan, Puerto Rico between 1974 and 1982, earning a Bachelors degree in Graphic Arts. In 1983-84, she did post-graduate studies in Pedagogy at that same institution. She also studied at the Facultad de Bellas Atres de la Universidad de Sevilla (Spain) from 1986 through 1989, and earned her Masters degree (in Visual Arts with concentration on Painting) from the Academia San Carlos de México where she studied from 2000 through 2002.",
+		"She returned to Puerto Rico after completing her studies in México, and currently lives in San Juan."
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "1955",
+	"death_date": "",
+	"country": "Puerto Rico",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Artist's web site",
+			"link_url": "http://www.caribbeanartspr.com"
+		}
+	],
+	"publications": [
+		{
+			"author": "na",
+			"pages": "Cover.",
+			"pub_date": "Spring 2006",
+			"pub_place": "",
+			"pub_type": "journal",
+			"publisher": "University of Texas Press",
+			"title": "Latin American Research Review"
+		}
+	],
+	"artworks": [
+		{
+			"title": "Debajo de un palmar",
+			"date": "Dated 1998",
+			"height": "28½",
+			"width": "28½",
+			"price": "Not For Sale",
+			"medium": "Oil on Canvas, Framed",
+			"description": [
+				"<em>Debajo de un palmar</em> is the first in a series of three paintings that were executed shorty before the artist went to study in Mexico. Each concerns the mermaid (here shown seated with her back to us). This painting depicts the mermaid's wedding reception. Friends and family of the groom are gathered around a table under the palms, while the mermaid's friends are seen in the lower left corner of the painting. Another mermaid swims just offshore.",
+				"In the second painting in the series, <em>Descorazonada</em>, the mermaid is seen alone in a room, curled up on the floor in a puddle of water, with her broken heart on a plate on a small table. The final painting in the series, <em>Velorio</em>, shows the mermaid lying in an open casket."
+			],
+			"images": [
+				"rodriguez-maria-dolores-1-500.jpg",
+				"rodriguez-maria-dolores-1f.jpg"
+			]
+		},
+		{
+			"title": "Capitán América vela por nosotros",
+			"date": "Dated 2001",
+			"height": "31¼",
+			"width": "35¼",
+			"price": "Not For Sale",
+			"medium": "Oil on Canvas, Framed",
+			"description": [
+				"<em>Capitán América vela por nosotros</strong></em> illustrated the cover of the Spring 2006 issue of the <em>Latin American Research Review</em>, published by the University of Texas Press."
+			],
+			"images": [
+				"rodriguez-maria-dolores-2-500.jpg",
+				"rodriguez-maria-dolores-2f.jpg"
+			]
+		}
+	]
+}

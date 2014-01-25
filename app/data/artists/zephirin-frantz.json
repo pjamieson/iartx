@@ -37,13 +37,13 @@
 	],
 	"publications": [
 		{
-			"author": "AFHAC",
-			"pages": "pp. 21, 24, 90.",
-			"pub_date": "1990",
+			"author": "Farquharson, Alex and Leah Gordon (editors)",
+			"pages": "",
+			"pub_date": "2012",
 			"pub_place": "",
 			"pub_type": "book",
 			"publisher": "",
-			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
+			"title": "Kafou: Haiti, Art and Vodou"
 		},
 		{
 			"author": "Drot, Jean-Marie",
@@ -53,6 +53,24 @@
 			"pub_type": "book",
 			"publisher": "",
 			"title": "An Encounter between Two Worlds as Seen by Haiti's Artists"
+		},
+		{
+			"author": "Granjean, Michelle",
+			"pages": "",
+			"pub_date": "1997",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "Artistes en Haiti: Cent Parmi d'Autres"
+		},
+		{
+			"author": "AFHAC",
+			"pages": "pp. 21, 24, 90.",
+			"pub_date": "1990",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne: Dialogue du Reel et de l'Imaginaire"
 		}
 	],
 	"artworks": [

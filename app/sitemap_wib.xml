@@ -40,96 +40,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://westindiesbooks.com/#!/artists/auguste-toussaint</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/casimir-laurent</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/desrosiers-m</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/domond-ezene</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/domond-wilmino</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/hector-voltaire</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-marie-carmel</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-ulrick</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/jean-jacques-carlo</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/joseph-reynald</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/maurice-a-m</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/obin-fritzner</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/pierre-andre</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/pierre-eddy</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/profil-jonas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/rameau-cameau</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/st-fleur-michelle</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://westindiesbooks.com/#!/artists/zephirin-frantz</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://westindiesbooks.com/#!/artists/aladin-theard</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -140,7 +50,47 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://westindiesbooks.com/#!/artists/auguste-toussaint</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/benjamin-john</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://westindiesbooks.com/#!/artists/bottex-s-e</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/casimir-laurent</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/cato-elinus</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/desrosiers-m</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/dodson-ann</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/domond-ezene</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/domond-wilmino</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -165,6 +115,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://westindiesbooks.com/#!/artists/hector-voltaire</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://westindiesbooks.com/#!/artists/ismael-saincilus</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -180,7 +135,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://westindiesbooks.com/#!/artists/jean-marie-carmel</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/jean-ulrick</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/jean-jacques-carlo</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://westindiesbooks.com/#!/artists/jose-hilome</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/joseph-reynald</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/louis-wilfred</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -195,12 +175,52 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://westindiesbooks.com/#!/artists/maurice-a-m</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/obin-fritzner</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://westindiesbooks.com/#!/artists/obin-othon</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://westindiesbooks.com/#!/artists/pierre-andre</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/pierre-eddy</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/profil-jonas</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/rameau-cameau</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://westindiesbooks.com/#!/artists/robuste-jean-claude</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/rodriguez-maria-dolores</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/st-fleur-michelle</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -211,6 +231,11 @@
   </url>
   <url>
     <loc>http://westindiesbooks.com/#!/artists/valery-julien</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://westindiesbooks.com/#!/artists/zephirin-frantz</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

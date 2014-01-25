@@ -15,7 +15,9 @@
     </li>
     
     <li class="nav-header">Artists from Other Countries</li>
-    <li><a href="#!">Coming soon</a></li>
+    <li ng-repeat="artist in data.artists | filter:{cat: 'other'}">
+      <a href="#!/artists/{{artist.id}}">{{artist.last_name}}, {{artist.first_name}} <i>({{artist.country}})</i></a>
+    </li>
     
   </ul>
 

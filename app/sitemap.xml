@@ -30,96 +30,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://iartx.com/#!/artists/auguste-toussaint</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/casimir-laurent</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/desrosiers-m</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/domond-ezene</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/domond-wilmino</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/hector-voltaire</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/jean-marie-carmel</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/jean-ulrick</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/jean-jacques-carlo</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/joseph-reynald</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/maurice-a-m</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/obin-fritzner</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/pierre-andre</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/pierre-eddy</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/profil-jonas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/rameau-cameau</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/st-fleur-michelle</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://iartx.com/#!/artists/zephirin-frantz</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://iartx.com/#!/artists/aladin-theard</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -130,7 +40,47 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://iartx.com/#!/artists/auguste-toussaint</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/benjamin-john</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://iartx.com/#!/artists/bottex-s-e</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/casimir-laurent</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/cato-elinus</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/desrosiers-m</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/dodson-ann</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/domond-ezene</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/domond-wilmino</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -155,6 +105,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://iartx.com/#!/artists/hector-voltaire</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://iartx.com/#!/artists/ismael-saincilus</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -170,7 +125,32 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://iartx.com/#!/artists/jean-marie-carmel</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/jean-ulrick</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/jean-jacques-carlo</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://iartx.com/#!/artists/jose-hilome</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/joseph-reynald</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/louis-wilfred</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -185,12 +165,52 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://iartx.com/#!/artists/maurice-a-m</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/obin-fritzner</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://iartx.com/#!/artists/obin-othon</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://iartx.com/#!/artists/pierre-andre</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/pierre-eddy</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/profil-jonas</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/rameau-cameau</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://iartx.com/#!/artists/robuste-jean-claude</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/rodriguez-maria-dolores</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/st-fleur-michelle</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -201,6 +221,11 @@
   </url>
   <url>
     <loc>http://iartx.com/#!/artists/valery-julien</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://iartx.com/#!/artists/zephirin-frantz</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

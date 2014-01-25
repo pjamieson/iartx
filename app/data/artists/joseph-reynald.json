@@ -2,7 +2,7 @@
 	"id": "joseph-reynald",
 	"name": "Reynald Joseph",
 	"bio": [
-		"<b>Reynald Joseph</b> was born in Port-au-Prince on July 4, 1973. By the age of thirteen he was using his talent as an artist to earn money for school and books. He left school in 1986 and--along with 8 or 9 other students--studied painting with his <i>'spiritual father'</i> and mentor, the famous artist Wilfrid Louis. Louis demanded that Reynald use only the 3 primary colors and mix all the other colors himself, and to this day he adheres to this practice. At the age of sixteen Reynald participated in a collective exhibition in Mexico where the Mexican Vice President purchased one of his paintings.",
+		"<b>Reynald Joseph</b> was born in Port-au-Prince on July 4, 1973. By the age of thirteen he was using his talent as an artist to earn money for school and books. He left school in 1986 and--along with 8 or 9 other students--studied painting with his <i>'spiritual father'</i> and mentor, the famous artist <a href='#!/artists/louis-wilfrid'>Wilfrid Louis</a>. Louis demanded that Reynald use only the 3 primary colors and mix all the other colors himself, and to this day he adheres to this practice. At the age of sixteen Reynald participated in a collective exhibition in Mexico where the Mexican Vice President purchased one of his paintings.",
 		"Reynald has a strong desire to improve and so he reads a lot, practicing the techniques that he studies. He has mastered oils as well as acrylics, and the palette knife as well as the brush.&nbsp; He paints to show his country in a realistic way, using his strong sense of color as a voice for his political conscience.",
 		"Reynald Joseph, with his strong talent and his will to succeed, is one of the stars of the new generation of Haitian artists."
 	],
@@ -46,6 +46,19 @@
 		}
 	],
 	"artworks": [
+		{
+			"title": "Wedding Night",
+			"date": "Dated 2006",
+			"height": "24",
+			"width": "20",
+			"price": "$1000",
+			"medium": "Oil on Canvas, Stretched (Unframed)",
+			"description": [],
+			"images": [
+				"joseph-reynald-4-500.jpg",
+				"joseph-reynald-4f.jpg"
+			]
+		},
 		{
 			"title": "Kap",
 			"date": "Dated 2002",

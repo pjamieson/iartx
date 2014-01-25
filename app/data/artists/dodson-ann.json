@@ -1,0 +1,40 @@
+{
+	"id": "dodson-ann",
+	"name": "Ann Dodson",
+	"bio": [
+		"<b>Ann Dodson</b> was born in Barbados in 1958. She studied at McGill University, and earned a BFA from Concordia University, Canada. Best known for her Barbados landscapes, Dodson also illustrated the children's books <em>Mauby’s Big Adventure</em>, <em>Mauby’s Quest for the Magic Flower</em> and <em>Mauby and the Hurricane</em>.",
+		"Dodson is widely collected, and her paintings have been exhibited in Boston, Washington, DC, and Paris. Of her work, she says, <i>'The juxtaposition of colour, pattern and shape tend to dominate my creative thought process, whether these are explored in the Barbadian landscape or celebrated in the female figure.'</i>"
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "1958",
+	"death_date": "",
+	"country": "Barbados",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Lay of the Land",
+			"link_url": "http://www.nagc.bb/SiteAssets/LayOfTheLand.pdf"
+		},
+		{
+			"link_name": "Tides Art Gallery",
+			"link_url": "http://www.tidesartgallery.com/index.php?RootSection=1&Section=54&Info=33#"
+		}
+	],
+	"publications": [],
+	"artworks": [
+		{
+			"title": "Barbados Landscape",
+			"date": "Dated 2001",
+			"height": "20",
+			"width": "24",
+			"price": "$1,500",
+			"medium": "Oil on Canvas, Self-Framed",
+			"description": [],
+			"images": [
+				"dodson-ann-1-500.jpg",
+				"dodson-ann-1f.jpg"
+			]
+		}
+	]
+}

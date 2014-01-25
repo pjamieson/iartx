@@ -18,6 +18,18 @@
 		{
 			"link_name": "Indigo Arts Gallery",
 			"link_url": "http://www.indigoarts.com/gallery_haiti_jprofil.html"
+		},
+		{
+			"link_name": "HaitianArt.com",
+			"link_url": "http://www.haitianart.com/cgi-bin/cp-app.cgi?usr=50X3145824&rnd=9530256&rrc=N&cip=66.249.74.215&pg=prod&ref=profil+market&cat=&catstr="
+		},
+		{
+			"link_name": "Martelly Art Gallery",
+			"link_url": "http://www.martellyartgallery.com/artists/profil_jonas.html"
+		},
+		{
+			"link_name": "Espace Loas",
+			"link_url": "http://sgbd.kletel.net/4DAction/DMP_Aff_Artiste/000139/A"
 		}
 	],
 	"publications": [
@@ -37,7 +49,7 @@
 			"date": "",
 			"height": "28",
 			"width": "40",
-			"price": "$1500",
+			"price": "$2,200",
 			"medium": "Oil on Canvas, Framed",
 			"description": [""],
 			"images": [

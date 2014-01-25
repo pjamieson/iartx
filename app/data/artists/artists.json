@@ -32,6 +32,14 @@
 		"last_name": "Auguste"
 	},
 	{
+		"id": "benjamin-john",
+		"cat": "other",
+		"aka": "",
+		"country": "Grenada",
+		"first_name": "John",
+		"last_name": "Benjamin"
+	},
+	{
 		"id": "bottex-s-e",
 		"cat": "sold",
 		"aka": "",
@@ -48,12 +56,28 @@
 		"last_name": "Casimir"
 	},
 	{
+		"id": "cato-elinus",
+		"cat": "other",
+		"aka": "",
+		"country": "Grenada",
+		"first_name": "Elinus",
+		"last_name": "Cato"
+	},
+	{
 		"id": "desrosiers-m",
 		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "M.",
 		"last_name": "Desrosiers"
+	},
+	{
+		"id": "dodson-ann",
+		"cat": "other",
+		"aka": "",
+		"country": "Barbados",
+		"first_name": "Ann",
+		"last_name": "Dodson"
 	},
 	{
 		"id": "domond-ezene",
@@ -176,6 +200,14 @@
 		"last_name": "Joseph"
 	},
 	{
+		"id": "louis-wilfrid",
+		"cat": "avail",
+		"aka": "",
+		"country": "Haiti",
+		"first_name": "Wilfrid",
+		"last_name": "Louis"
+	},
+	{
 		"id": "louissaint-jacques",
 		"cat": "sold",
 		"aka": "",
@@ -254,6 +286,14 @@
 		"country": "Haiti",
 		"first_name": "Jean Claude",
 		"last_name": "Robuste"
+	},
+	{
+		"id": "rodriguez-maria-dolores",
+		"cat": "other",
+		"aka": "",
+		"country": "Puerto Rico",
+		"first_name": "María Dolores",
+		"last_name": "Rodríguez"
 	},
 	{
 		"id": "st-fleur-michelle",

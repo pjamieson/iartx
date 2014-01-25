@@ -1,0 +1,58 @@
+{
+	"id": "louis-wilfrid",
+	"name": "Wilfrid Louis",
+	"bio": [
+		"<b>Wilfrid Louis</b> was born in Port-au-Prince on April 17, 1943, and studied at l'Academie des Beaux-Arts from 1963 to 1970. There he learned casting, drawing and ceramics. Regarded as one of Haiti's finest artists, Louis uses a palette knife to blend only the three primary colors into subtly different shades. He founded his own atelier, <i>La Maloulou</i>, and his prior students include <a href='#!/artists/joseph-reynald'>Reynald Joseph</a>.",
+		"John Ripton, adjunct professor of Caribbean history at Rutgers University, says Louis wants to distinguish his art from primitivism and that the artist's inspiration <i>'comes from the people, from the experience of life on the streets, the joy the sadness, the wisdom of a poverty-stricken people which, in spite of everything, retains hope in the future.'</i>"
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "17 Apr 1943",
+	"death_date": "",
+	"country": "Haiti",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "John Ripton Curates Haitian Art Exhibition",
+			"link_url": "http://www.haitiwebs.com/showthread.php?t=40226"
+		},
+		{
+			"link_name": "Carrie Art Gallery",
+			"link_url": "http://www.carrieartgallery.com/wilfrid-louis/"
+		},
+		{
+			"link_name": "Galerie Martelly",
+			"link_url": "http://www.martellyartgallery.com/artists/wlouis.htm"
+		},
+		{
+			"link_name": "Espace Loas",
+			"link_url": "http://sgbd.kletel.net/4DAction/DMP_Aff_Artiste/000117"
+		}
+	],
+	"publications": [
+		{
+			"author": "Granjean, Michelle",
+			"pages": "",
+			"pub_date": "1997",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "Artistes en Haiti: Cent Parmi d'Autres"
+		}
+	],
+	"artworks": [
+		{
+			"title": "Street Scene",
+			"date": "Dated 1987",
+			"height": "20",
+			"width": "24",
+			"price": "$1,200",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"louis-wilfrid-1-500.jpg",
+				"louis-wilfrid-1f.jpg"
+			]
+		}
+	]
+}

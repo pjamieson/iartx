@@ -37,7 +37,7 @@ iartxControllers.controller('ArtistListCtrl', ['$scope', 'Artists',
     	Artist.get({artistId: $routeParams.artistId}, function(response) {
     		$scope.data.artist = response;
         Page.setTitle($scope.data.artist.name + ' - Artist - ' + $scope.data.artist.country);
-        Page.setDescription('Haitian Art for sale. Featuring paintings by the respected Haitian artist ' + $scope.data.artist.name + '.');
+        Page.setDescription('Haitian Art and Caribbean Art for sale. Featuring paintings by the artist ' + $scope.data.artist.name + ' of ' + $scope.data.artist.country + '.');
 	   });
   }]);
 

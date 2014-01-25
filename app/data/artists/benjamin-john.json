@@ -1,0 +1,59 @@
+{
+	"id": "benjamin-john",
+	"name": "John Benjamin",
+	"bio": [
+		"<b>John Benjamin</b> was born in Paraclete, St. Andrews, Grenada in 1934. After completing his studies at Brighton College of Arts and Crafts in Sussex, England, he returned to Grenada where he taught art for many years in elementary and secondary schools.  Benjamin also served as Supervisor of Art in the Ministry of Education, and authored the 1991 book <em>Short History of Greneda: New Dimensions</em>.",
+		"Internationally collected, Benjamin worked in both oil and watercolor. His painting <em>Dance for Mama and Granpapa</em> won the coveted UNICEF First Day Stamp Cover in 1985.",
+		"John Benjamin passed away in May 2010."
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "1934",
+	"death_date": "30 May 2010",
+	"country": "Grenada",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "Calabash: A Journal of Caribbean Arts and Letters",
+			"link_url": "http://www.nyu.edu/calabash/vol3no2/vol3no2/0302129.pdf"
+		},
+		{
+			"link_name": "John Benjamin Obituary",
+			"link_url": "http://www.bigdrumnation.org/comments/johnbenjamin.htm"
+		}
+	],
+	"publications": [],
+	"artworks": [
+		{
+			"title": "Dancers #1",
+			"date": "Dated September 1996",
+			"height": "17¾",
+			"width": "11¾",
+			"price": "Not For Sale",
+			"medium": "Watercolor on Paper, Framed",
+			"description": [],
+			"images": [
+				"benjamin-john-1-500.jpg"
+			]
+		},
+		{
+			"title": "Dancers #2",
+			"date": "Dated March 1997",
+			"height": "17¾",
+			"width": "11¾",
+			"price": "Not For Sale",
+			"medium": "Watercolor on Paper, Framed",
+			"description": [
+				"These two watercolors were the first West Indian pieces that Rebecca and I bought. While vacationing in Grenada for ten days in March of 1997, we spent time every day seeking venues that displayed local art. Our itinerary had us circling the island, spending several days each in St. George's, Grenville, Sauteurs, and Victoria, then back to St. George's. In Grenville, we couldn't find any galleries, so we asked the proprietor of a variety shop where we might see art in the area. He told us that he knew an artist--John Benjamin--who worked out of his home, and he phoned him to see if we could visit. (We later learned that the shop owner was John Benjamin's brother, Reynold.) John drove into town to pick us up--we didn't have a car--and took us to his home to show us his work.",
+				"We immediately liked both John and his paintings. A talented, full-time artist, he works mostly in watercolor, but occasionally produces an oil painting. He also does illustrations (for flyers, brochures, books, menus, etc.) for local merchants and organizations. He said doing watercolors is fun, while he finds getting an oil done to his satisfaction can be tortuous. John suggested that Picasso perhaps missed the boat during his cubist period; he maintains that circles are more important and powerful than cubes. The round world rotates while circling the sun. Circles power motion, and that's what his work often shows.",
+				"John seemed to feel that one of his most important paintings is an oil called <em>The Nutmeg Princess</em>. It is a full-length portrait of Jennifer Hosten, who was named Miss World in 1970. In the painting, she wears a magnificent gown of nutmegs, Grenada's primary export. (We later saw and photographed the painting; it hung in the lobby of the Spice Island Beach Resort on Grand Anse Beach.)",
+				"Of John's available paintings, I especially liked <em>Dancers #1.</em> The power behind the man's asymmetrical eyes and the woman's energy grabbed me. Rebecca preferred <em>Dancers #2</em>, which was about half done when we first saw it on John's easel.",
+				"That evening, we joined John for dinner at a local restaurant. He told us about his experiences during the hurricane of 1954, and he spoke of the bombing of the planes on the ground at the Grenville airport during the U.S. invasion of Grenada in 1983. He offered to finish <em>Dancers #2</em> for Rebecca over the next few days, and to deliver both paintings to us in St. George's when we returned there. We agreed to that arrangement.",
+				"The following day--to spare us the adventure of a Grenadian minibus ride--John drove us up to Morne Fendue Plantation House, the guest house we were to stay at near Sauteurs. After we deposited our luggage there, he took us to nearby Bathway Beach. Several days later, as promised, he brought our two new watercolors to us in St. George's. In the meantime, we also bought a copy of the locally published <em>Grenada Spice Isle Homemakers Cookbook</em>, for which John had done the cover illustration. He inscribed that book for us."
+			],
+			"images": [
+				"benjamin-john-2-500.jpg"
+			]
+		}
+	]
+}
