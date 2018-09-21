@@ -1,0 +1,109 @@
+{
+	"id": "dreux-nicolas",
+	"name": "Nicolas Dreux",
+	"bio": [
+		"<b>Nicolas Dreux</b> was born on March 10, 1956 in Port-au-Prince, Haiti. He began to paint as a student of Calixte Henri in 1973. He works with a razor blade; laying on the paint thick in spots and scraping it to tranparency elsewhere. After this he accents some elements of the painting with the corner of the blade.",
+		"Traumatized by the political violence in Haiti in the early 2000's, Dreux suffered a breakdown and stopped painting for several years. Since he started painting again, he has been creating wonderful pictures, sophisticated little gems."
+	],
+	"bio_credit_name": "Galerie Macondo",
+	"bio_credit_url": "http://www.artshaitian.com",
+	"birth_date": "10 Mar 1956",
+	"death_date": "",
+	"country": "Haiti",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "David Barnett Gallery",
+			"link_url": "http://dbg.folioarchive.com/famain.asp?customerId=736&sKey=DRMRD6WX&action=viewimage&cid=233&imageid=857"
+		},
+		{
+			"link_name": "Carrie Art Gallery",
+			"link_url": "http://www.carrieartgallery.com/nicolas-dreux/"
+		},
+		{
+			"link_name": "Expressions Art Gallery",
+			"link_url": "http://expressionsgaleriedart.com/dreux.html"
+		},
+		{
+			"link_name": "Galerie Macondo",
+			"link_url": "http://www.artshaitian.com/Pages/haitianart2dreux.html"
+		},
+		{
+			"link_name": "Galerie Monin Art Deco",
+			"link_url": "http://galeriemonnin.vedere.com/products/1416"
+		},
+		{
+			"link_name": "Martelly Art Gallery",
+			"link_url": "http://www.martellyartgallery.com/artists/ndreux.htm"
+		},
+		{
+			"link_name": "Vassar Haiti Project",
+			"link_url": "http://thehaitiproject.org/browse-by-artist/nicolas-dreux/"
+		}
+	],
+	"publications": [
+		{
+			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
+			"pages": "pg. 166.",
+			"pub_date": "1986",
+			"pub_place": "",
+			"pub_type": "book",
+			"publisher": "",
+			"title": "La Peinture Haitienne"
+		}
+	],
+	"artworks": [
+		{
+			"title": "The Celebration",
+			"date": "Dated 2012",
+			"height": "16",
+			"width": "12",
+			"price": "$300",
+			"medium": "Oil on Canvas, Self-Framed",
+			"description": [""],
+			"images": [
+				"dreux-nicolas-1-500.jpg",
+				"dreux-nicolas-1f.jpg"
+			]
+		},
+		{
+			"title": "Ra-Ra",
+			"date": "Dated 2011",
+			"height": "16",
+			"width": "20",
+			"price": "$500",
+			"medium": "Oil on Masonite, Mounted on Board",
+			"description": [""],
+			"images": [
+				"dreux-nicolas-2-500.jpg",
+				"dreux-nicolas-2f.jpg"
+			]
+		},
+		{
+			"title": "Together",
+			"date": "Dated 2013",
+			"height": "12",
+			"width": "9",
+			"price": "$200",
+			"medium": "Oil on Masonite, Mounted on Board",
+			"description": [""],
+			"images": [
+				"dreux-nicolas-3-500.jpg",
+				"dreux-nicolas-3f.jpg"
+			]
+		},
+		{
+			"title": "Reaching Out",
+			"date": "Dated 2013",
+			"height": "24",
+			"width": "8",
+			"price": "$400",
+			"medium": "Oil on Canvas, Framed",
+			"description": [""],
+			"images": [
+				"dreux-nicolas-4-500.jpg",
+				"dreux-nicolas-4f.jpg"
+			]
+		}
+	]
+}

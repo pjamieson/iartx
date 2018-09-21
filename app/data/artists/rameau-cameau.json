@@ -21,42 +21,15 @@
 		}
 	],
 	"publications": [
-		{
-			"author": "Granjean, Michelle",
-			"pages": "",
-			"pub_date": "1997",
-			"pub_place": "",
-			"pub_type": "book",
-			"publisher": "",
-			"title": "Artistes en Haiti: Cent Parmi d'Autres"
-		},
-		{
-			"author": "Drot, Jean-Marie",
-			"pages": "",
-			"pub_date": "1994",
-			"pub_place": "",
-			"pub_type": "book",
-			"publisher": "",
-			"title": "An Encounter between Two Worlds as Seen by Haiti's Artists"
-		},
-		{
-			"author": "Nadal-Gardere, Marie-Jose and Gerald Bloncourt",
-			"pages": "",
-			"pub_date": "1986",
-			"pub_place": "",
-			"pub_type": "book",
-			"publisher": "",
-			"title": "La Peinture Haitienne"
-		}
 	],
 	"artworks": [
 		{
 			"title": "Fishing",
-			"date": "",
+			"date": "c. 1995",
 			"height": "16",
 			"width": "20",
-			"price": "$500",
-			"medium": "Oil on Masonite, Framed",
+			"price": "$750",
+			"medium": "Oil on Canvas, Framed",
 			"description": [""],
 			"images": [
 				"rameau-cameau-1-500.jpg",

@@ -25,15 +25,22 @@ angular.module('iartxApp', [
 
           var absURL = $location.absUrl();
           if (absURL.indexOf('?_escaped_fragment_=') > -1) {
+            //console.log(absURL);
             // Redirect search engine requests to snapshots
-            absURL = absURL.replace("?_escaped_fragment_=", "snapshots");
-            absURL = absURL.replace("artists/", "");
+            if (absURL.indexOf('artists/') > -1) {
+              // redirect artists to the new html file in root
+              absURL = absURL.replace("?_escaped_fragment_=/artists/", "");
+            } else {
+              absURL = absURL.replace("?_escaped_fragment_=", "snapshots");
+            }
+            console.log(absURL);
             absURL = absURL.replace("#!/", "");
             absURL = absURL+".html";
             absURL = absURL.replace("/.html", "/index.html");
             config.url = absURL;
-          }
-          //console.log(config.url);
+            console.log(config.url); // gets hit 2x
+           }
+          //console.log(config.url); // gets hit 2x
 
           // Return the config or wrap it in a promise if blank.
           return config || $q.when(config);

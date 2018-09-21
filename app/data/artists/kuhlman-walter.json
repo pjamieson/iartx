@@ -1,0 +1,90 @@
+{
+	"id": "kuhlman-walter",
+	"name": "Walter Egel Kuhlman",
+	"bio": [
+		"Born 16 November 1918 to Danish immigrants in St. Paul, Minnesota, <b>Walter Egel Kuhlman</b> graduated from the University of Minnesota and studied with Cameron Booth at the St. Paul School of Art. After serving with the Navy during the Second World War, he came to settle in the San Francisco Bay Area. Attending the California School of Fine Arts (now the San Francisco Art Institute) on the G.I. Bill with such artists and teachers as Clyford Still, Frank Lobdell, Richard Diebenkorn, and Budd Dixon, Kuhlman was part of a period of San Francisco art history that, together with the work of artists in New York, thrust the United States into a prominent and vital position in the art world.",
+		"Kuhlman taught on the faculties of the California School of Fine Arts, Stanford University, Santa Clara University, and the University of New Mexico, as well as at the Sonoma State University from 1969 until his retirement in 1988. He was the recipient of the Graham Foundation Fellowship in 1957.",
+		"In 1982, Kuhlman was designated Maestro by the California Arts Council and awarded a grant as <em>'a leading California working artist and teacher.'</em> He was elected to membership of the National Academy of Design in New York in 1995. His work can be found in a number of national and intetrnational collections--including the Metropolitan Museum of Art (New York), the National Museum of Art (Washington, DC) and the British Museum (London)--and his papers are in the Archives of American Art at the Smithsonian Institution.",
+		"Walter Kuhlman died March 20, 2009."
+	],
+	"bio_credit_name": "",
+	"bio_credit_url": "",
+	"birth_date": "16 Nov 1918",
+	"death_date": "20 Mar 2009",
+	"country": "USA",
+	"image_url": "",
+	"links": [
+		{
+			"link_name": "The Walter Kuhlman Studio",
+			"link_url": "http://www.walterkuhlmanart.com/"
+		},
+		{
+			"link_name": "American Artist",
+			"link_url": "http://www.walterkuhlmanart.com/uploads/2/4/7/7/24770595/americanartistmagazine.pdf"
+		},
+		{
+			"link_name": "Calabi Gallery",
+			"link_url": "http://calabigallery.com/artists/walter-kuhlman/"
+		},
+		{
+			"link_name": "George Krevsky Gallery",
+			"link_url": "http://www.georgekrevskygallery.com/dynamic/artist_artwork.asp?ArtistID=21"
+		},
+		{
+			"link_name": "Walter Kuhlman Obituary",
+			"link_url": "http://www.marinij.com/ci_11980226"
+		}
+	],
+	"publications": [
+		{
+			"author": "Selsor, Alan",
+			"pages": "",
+			"pub_date": "2010",
+			"pub_place": "",
+			"pub_type": "monograph",
+			"publisher": "",
+			"title": "Walter Kuhlman: The Artist and the Art"
+		}
+	],
+	"artworks": [
+		{
+			"title": "Flight",
+			"date": "Signed and dated 1997",
+			"height": "13½",
+			"width": "11",
+			"price": "$1,150",
+			"medium": "Pastel over Monotype, Framed",
+			"description": [],
+			"images": [
+				"kuhlman-walter-1-500.jpg",
+				"kuhlman-walter-1f.jpg"
+			]
+		},
+		{
+			"title": "Alors",
+			"date": "Signed and dated 1999",
+			"height": "11",
+			"width": "8¾",
+			"price": "$850",
+			"medium": "Pastel over Monotype, Unframed",
+			"description": [],
+			"images": [
+				"kuhlman-walter-2-500.jpg",
+				"kuhlman-walter-2f.jpg"
+			]
+		},
+		{
+			"title": "Johannes Brahms",
+			"date": "1988",
+			"height": "20",
+			"width": "16",
+			"price": "$4,500",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"kuhlman-walter-3-500.jpg",
+				"kuhlman-walter-3f.jpg"
+			]
+		}
+	]
+}

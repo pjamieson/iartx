@@ -47,12 +47,25 @@
 	],
 	"artworks": [
 		{
+			"title": "Jumping Rope",
+			"date": "Dated 2014",
+			"height": "20",
+			"width": "24",
+			"price": "$800",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"joseph-reynald-5-500.jpg",
+				"joseph-reynald-5f.jpg"
+			]
+		},
+		{
 			"title": "Wedding Night",
 			"date": "Dated 2006",
 			"height": "24",
 			"width": "20",
-			"price": "$1000",
-			"medium": "Oil on Canvas, Stretched (Unframed)",
+			"price": "$800",
+			"medium": "Oil on Canvas, Framed",
 			"description": [],
 			"images": [
 				"joseph-reynald-4-500.jpg",
@@ -64,8 +77,8 @@
 			"date": "Dated 2002",
 			"height": "20",
 			"width": "24",
-			"price": "$1250",
-			"medium": "Oil on Canvas, Framed",
+			"price": "$950",
+			"medium": "Oil on Canvas, Custom Cherry Wood Frame",
 			"description": [
 				"<em>Kap</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
 			],
@@ -79,7 +92,7 @@
 			"date": "Dated 2002",
 			"height": "20",
 			"width": "16",
-			"price": "$1000",
+			"price": "$750",
 			"medium": "Oil on Canvas, Framed",
 			"description": [
 				"<em>Bordel</em> was one of 25 Haitian paintings from this collection that were exhibited in the show <a href='LifeInBoldColors.pdf' target='_blank'>Life in Bold Colors</a> at Sonoma State University, Sonoma, California in 2007."
@@ -87,6 +100,45 @@
 			"images": [
 				"joseph-reynald-2-500.jpg",
 				"joseph-reynald-2f.jpg"
+			]
+		},
+		{
+			"title": "Baptism",
+			"date": "Dated 2011",
+			"height": "16",
+			"width": "12",
+			"price": "$400",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"joseph-reynald-6-500.jpg",
+				"joseph-reynald-6f.jpg"
+			]
+		},
+		{
+			"title": "Making Music",
+			"date": "Dated 2008",
+			"height": "16",
+			"width": "12",
+			"price": "$400",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"joseph-reynald-7-500.jpg",
+				"joseph-reynald-7f.jpg"
+			]
+		},
+		{
+			"title": "Girls' Game",
+			"date": "Dated 2011",
+			"height": "16",
+			"width": "12",
+			"price": "$400",
+			"medium": "Oil on Canvas, Framed",
+			"description": [],
+			"images": [
+				"joseph-reynald-8-500.jpg",
+				"joseph-reynald-8f.jpg"
 			]
 		},
 		{

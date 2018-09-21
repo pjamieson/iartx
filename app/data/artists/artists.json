@@ -17,7 +17,7 @@
 	},
 	{
 		"id": "alphonse-fritzner",
-		"cat": "sold",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Fritzner",
@@ -41,7 +41,7 @@
 	},
 	{
 		"id": "bottex-s-e",
-		"cat": "sold",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "S.E.",
@@ -96,6 +96,14 @@
 		"last_name": "Domond"
 	},
 	{
+		"id": "dreux-nicolas",
+		"cat": "avail",
+		"aka": "",
+		"country": "Haiti",
+		"first_name": "Nicolas",
+		"last_name": "Dreux"
+	},
+	{
 		"id": "dupoux-raoul",
 		"cat": "sold",
 		"aka": "",
@@ -113,7 +121,7 @@
 	},
 	{
 		"id": "francois-roger",
-		"cat": "sold",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Roger",
@@ -145,7 +153,7 @@
 	},
 	{
 		"id": "jacques-harry",
-		"cat": "sold",
+		"cat": "avail",
 		"aka": "Arijac",
 		"country": "Haiti",
 		"first_name": "Harry",
@@ -185,7 +193,7 @@
 	},
 	{
 		"id": "jose-hilome",
-		"cat": "sold",
+		"cat": "avail",
 		"aka": "",
 		"country": "Haiti",
 		"first_name": "Hilome",
@@ -198,6 +206,14 @@
 		"country": "Haiti",
 		"first_name": "Reynald",
 		"last_name": "Joseph"
+	},
+	{
+		"id": "kuhlman-walter",
+		"cat": "other",
+		"aka": "",
+		"country": "USA",
+		"first_name": "Walter",
+		"last_name": "Kuhlman"
 	},
 	{
 		"id": "louis-wilfrid",

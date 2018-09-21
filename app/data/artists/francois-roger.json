@@ -2,7 +2,7 @@
 	"id": "francois-roger",
 	"name": "Roger Francois",
 	"bio": [
-		"<b>Roger Francois</b> was born around 1928 in Petite Riviere, on the Artibonite plain of central Haiti. He began as a wood sculptor and still carves occasionally. He has been painting as well since the early sixties. He loves to paint and sculpt Haitian women, both nudes and market women with baskets and braids. Besides women, M. Francois paints animals: cats, dogs, horses and owls, and in the early 1990's, began painting sun and moon heads on human bodies. He also does an occasional surreal voodoo painting. His style is robust, bold and always fresh and new.",
+		"<b>Roger Francois</b> was born around 1928 in Petite Riviere, on the Artibonite plain of central Haiti. He began as a wood sculptor, and started painting as well in the early 1960s. He loved to paint and sculpt Haitian women, both nudes and market women with baskets and braids. Besides women, M. Francois painted animals: cats, dogs, horses and owls, and in the early 1990's, began painting sun and moon heads on human bodies. He also does an occasional surreal voodoo painting. His style is robust, bold and always fresh and new.",
 		"A painting of his hangs in the National Museum, Brussells, Belgium and another was exhibited in the show of Geoffrey Holder's collection, <em>Spirits</em> at the Katonah Museum of Art, (NY) in May 1991. His work has appeared in books and museum shows internationally."
 	],
 	"bio_credit_name": "Galerie Macondo",
@@ -21,8 +21,16 @@
 			"link_url": "http://www.egallery.com/artists/?id=114"
 		},
 		{
+			"link_name": "Indigo Arts Gallery",
+			"link_url": "http://indigoarts.com/gallery_haiti_francois.html"
+		},
+		{
 			"link_name": "Medalia Art",
 			"link_url": "http://www.medalia.net/store/francoisrog.html"
+		},
+		{
+			"link_name": "Gallery of West Indian Art",
+			"link_url": "http://www.galleryofwestindianart.com/roomfour.html"
 		}
 	],
 	"publications": [
@@ -37,6 +45,21 @@
 		}
 	],
 	"artworks": [
+		{
+			"title": "Les Trois",
+			"date": "",
+			"height": "16",
+			"width": "12",
+			"price": "$400",
+			"medium": "Acrylic on Canvas, Framed",
+			"description": [
+				"See <i>Bourgeois Family</i> by <a href='#!/artists/domond-ezene'>Ezene Domond</a> for another artist's take on a Haitian family."
+			],
+			"images": [
+				"francois-roger-4-500.jpg",
+				"francois-roger-4f.jpg"
+			]
+		},
 		{
 			"title": "Nude with Cat and Flowers",
 			"date": "2002",

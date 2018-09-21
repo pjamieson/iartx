@@ -12,6 +12,18 @@
 	"country": "Haiti",
 	"image_url": "",
 	"links": [
+		{
+			"link_name": "Studio Juliano",
+			"link_url": "http://www.studiojuliano.com/galerie-savannah-blue/seymour_bottex_haiti.html"
+		},
+		{
+			"link_name": "Gallery of West Indian Art",
+			"link_url": "http://www.galleryofwestindianart.com/roomfortyfive.html"
+		},
+		{
+			"link_name": "Shirley Allen",
+			"link_url": "http://www.trocadero.com/stores/georgeart/items/16721/item16721.html"
+		}
 	],
 	"publications": [
 	],

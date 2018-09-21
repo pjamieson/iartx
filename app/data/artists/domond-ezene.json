@@ -39,9 +39,11 @@
 			"date": "c. 1987",
 			"height": "16",
 			"width": "12",
-			"price": "$1,200",
+			"price": "$600",
 			"medium": "Acrylic on Canvas, Framed",
-			"description": [""],
+			"description": [
+				"See <i>Les Trois</i> by <a href='#!/artists/francois-roger'>Roger Francois</a> for another artist's take on a Haitian family."
+			],
 			"images": [
 				"domond-ezene-2-500.jpg",
 				"domond-ezene-2f.jpg"

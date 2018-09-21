@@ -34,30 +34,31 @@ body {
 }
 
 .hero-unit {
-    margin: 0px auto 0px auto;
-    background-color: #eee;
-    border-radius: 6px;
-    padding: 40px;
-    font-size: 18px;
-    font-weight: 200;
-    line-height: 1.2;
-    .padded-top {
-      padding-top: 20px;
-    }
+  margin: 0px auto 0px auto;
+  background-color: #eee;
+  border-radius: 6px;
+  padding: 40px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 1.2;
+  .padded-top {
+    padding-top: 20px;
+  }
 }
 
 .hero-unit h1 {
-    font-size: 48px;
-    line-height: 1;
-    letter-spacing: -1px;
-    padding-bottom: 12px;
+  font-size: 48px;
+  line-height: 1;
+  letter-spacing: -1px;
+  padding-bottom: 12px;
 }
 
 .hero-unit h2 {
-    font-size: 32px;
-    line-height: 1;
-    letter-spacing: -1px;
-    padding-bottom: 0px;
+  font-size: 32px;
+  font-style: italic;
+  line-height: 1;
+  letter-spacing: -1px;
+  padding-bottom: 0px;
 }
 
 .hero-unit {

@@ -24,6 +24,20 @@
 	],
 	"artworks": [
 		{
+			"title": "Trois Femmes",
+			"date": "",
+			"height": "24",
+			"width": "8",
+			"price": "$350",
+			"medium": "Oil on Masonite, Framed",
+			"description": [""],
+			"images": [
+				"jose-hilome-2-500.jpg",
+				"jose-hilome-2f.jpg",
+				"jose-hilome-2sig.jpg"
+			]
+		},
+		{
 			"title": "Waterfront Scene",
 			"date": "c. 2005",
 			"height": "8",

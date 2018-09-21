@@ -1,15 +1,66 @@
 <div class="span12 hero-unit">
 
-  <h1>{{data.artist.name}}</h1>
+  <div itemscope itemtype="http://schema.org/Person">
+    <h1><span itemprop="name">{{data.artist.name}}</span></h1>
 
-  <p><span class="country">{{data.artist.country}}</span><span class="dates">({{data.artist.birth_date}} - {{data.artist.death_date}})</span></p>
+    <p>
+      <span itemprop="jobTitle">Artist</span> from 
+      <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span class="country" itemprop="addressCountry">{{data.artist.country}}</span>
+      </span>
+      <span ng-if="data.artist.birth_date.length > 0 || data.artist.birth_death.length > 0" class="dates">
+        <span>(</span>
+        <span ng-if="data.artist.birth_date.length > 0" itemprop="birthDate">{{data.artist.birth_date}}</span>
+        <span> - </span>
+        <span ng-if="data.artist.death_date.length > 0" itemprop="deathDate">{{data.artist.death_date}}</span>
+        <span>)</span>
+      </span>
+    </p>
 
-  <ul class="padded-top nav">
-    <li ng-repeat="paragraph in data.artist.bio">
-      <p class="bio" ng-bind-html="paragraph"></p>
-  </ul>
-  <div class="bio-credit pull-right" ng-if="data.artist.bio_credit_name.length > 0">
-    <p>[Biographic notes from <a target="_blank" ng-href="{{data.artist.bio_credit_url}}">{{data.artist.bio_credit_name}}</a>]</p>
+    <ul class="padded-top nav" itemprop="description">
+      <li ng-repeat="paragraph in data.artist.bio">
+        <p class="bio" ng-bind-html="paragraph"></p>
+    </ul>
+
+    <div class="bio-credit pull-right" ng-if="data.artist.bio_credit_name.length > 0">
+      <p>[Biographic notes from <a target="_blank" ng-href="{{data.artist.bio_credit_url}}">{{data.artist.bio_credit_name}}</a>]</p>
+    </div>
+
+    <ul class="nav">
+      <li ng-repeat="artwork in data.artist.artworks">
+        <div class="padded-top span12" ng-controller="ArtworkDetailCtrl" ng-model="artwork">
+
+          <div itemscope itemtype="http://schema.org/Painting">
+            <img itemprop="image" alt="{{artwork.title}} by {{data.artist.name}}" ng-src="images/{{mainImageUrl}}" class="artwork">
+            <div ng-show="artwork.images.length > 1">
+              <ul class="artwork-thumbs">
+                <li ng-repeat="img in artwork.images">
+                  <img alt="{{artwork.title}} by {{data.artist.name}}" ng-src="images/{{img}}" ng-click="setImage(img)">
+                </li>
+              </ul>
+            </div>
+
+            <div class="span12 artwork-particulars">
+              <p>
+                <span itemprop="name" class="artwork-title">{{artwork.title}}</span> by 
+                <span itemprop="creator">{{data.artist.name}}</span>
+                <span class="dates">{{artwork.date}}</span>
+              </p>
+              <p>{{artwork.width}} x {{artwork.height}} inches, {{artwork.medium}}</p>
+              <p>{{artwork.price}} <span ng-if="artwork.price.charAt(0) == '$'"> - To inquire about this piece, please email <a ng-if="artwork.seller_id == 'rk'" href="mailto:rob@robkircher.com?subject={{artwork.title}} by {{data.artist.name}}">Rob Kircher</a>
+                <a ng-if="!artwork.seller_id" href="mailto:patrick@iartx.com?subject={{artwork.title}} by {{data.artist.name}}">Patrick Jamieson</a></span></p>
+            </div>
+
+            <div class="span12">
+              <ul class="padded-top nav">
+                <li ng-repeat="paragraph in artwork.description">
+                  <p class="bio" ng-bind-html="paragraph"></p>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </li>
+    </ul>
   </div>
 
   <div ng-if="data.artist.publications.length > 0">
@@ -21,32 +72,6 @@
       </li>
     </ul>
   </div>
-
-  <ul class="nav">
-    <li ng-repeat="artwork in data.artist.artworks">
-      <div class="padded-top span12" ng-controller="ArtworkDetailCtrl" ng-model="artwork">
-        <img alt="{{artwork.title}} by {{data.artist.name}}" ng-src="images/{{mainImageUrl}}" class="artwork">
-        <div ng-show="artwork.images.length > 1">
-          <ul class="artwork-thumbs">
-            <li ng-repeat="img in artwork.images">
-              <img alt="{{artwork.title}} by {{data.artist.name}}" ng-src="images/{{img}}" ng-click="setImage(img)">
-            </li>
-          </ul>
-        </div>
-        <div class="span12 artwork-particulars">
-          <p><span class="artwork-title">{{artwork.title}}</span><span class="dates">{{artwork.date}}</span></p>
-          <p>{{artwork.width}} x {{artwork.height}} inches, {{artwork.medium}}</p>
-          <p>{{artwork.price}} <span ng-if="artwork.price.charAt(0) == '$'"> - To inquire about this piece, please email <a href="mailto:patrick@iartx.com?subject={{artwork.title}} by {{data.artist.name}}">Patrick Jamieson</a>.</span></p>
-        </div>
-        <div class="span12">
-          <ul class="padded-top nav">
-            <li ng-repeat="paragraph in artwork.description">
-              <p class="bio" ng-bind-html="paragraph"></p>
-          </ul>
-        </div>
-      </div>
-    </li>
-  </ul>
 
   <div class="padded-top" ng-if="data.artist.links.length > 0">
     <p class="section-head">Selected {{data.artist.name}} links:</p>
